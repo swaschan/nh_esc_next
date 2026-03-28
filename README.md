@@ -1,6 +1,6 @@
 # Extra Ship Components NEXT
 
-A fork of [Extra Ship Components NEXT](https://github.com/Solovyev-Pavel/nh_esc_next) by Solovyev-Pavel — a Stellaris mod that adds advanced ship components, weapons, and technologies beyond vanilla tier 5.
+A fork of [Extra Ship Components NEXT](https://github.com/Solovyev-Pavel/nh_esc_next) by Solovyev-Pavel, aiming to fold quality improvements back upstream.
 
 Available on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2648658105).
 
@@ -16,17 +16,7 @@ This fork aims to contribute quality improvements back to the upstream project, 
 
 - **Current version:** 4.6.0
 - **Supported Stellaris version:** v4.3.*
-- **Tags:** Military, Technologies
 
-## Repository Structure
-
-- `common/` — Game definitions (technologies, components, buildings, scripts)
-- `events/` — Event scripts
-- `gfx/` — Graphics and icons
-- `interface/` — UI definitions
-- `localisation/` — Translations (English, French, German, Russian, and more)
-- `changes.log` — Upstream changelog
-- `descriptor.mod` — Stellaris mod descriptor
 
 ## Upstream
 
