@@ -1,0 +1,19 @@
+# Personal planning / working notes
+PLAN.md
+PLAN*.md
+TODO.md
+NOTES.md
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
