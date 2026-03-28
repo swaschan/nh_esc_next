@@ -8,7 +8,7 @@
 
 # Advanced Combat Laser
 ESC_LASER_6: "Advanced Combat Laser"
-ESC_LASER_6_DESC: "This laser cannon was built using the next-generation technologies and has superb performance."
+ESC_LASER_6_DESC: "This laser cannon was built using next-generation technologies, delivering significantly improved accuracy and damage output."
 SMALL_ESC_LASER_6: "$esc_small$ $ESC_LASER_6$"
 SMALL_ESC_LASER_6_DESC: "$ESC_LASER_6_DESC$"
 MEDIUM_ESC_LASER_6: "$esc_medium$ $ESC_LASER_6$"
@@ -26,7 +26,7 @@ LARGE_ESC_BIO_LASER_6: "$esc_large$ $ESC_BIO_LASER_6$"
 LARGE_ESC_BIO_LASER_6_DESC: "$ESC_BIO_LASER_6_DESC$"
 
 ESC_LASER_CREATURE_6: "Advanced Combat Eye-beam"
-ESC_LASER_CREATURE_6_DESC: "Once an ocular organ, now it's fully mutated into an energy projector with performance far in advance of anything below it on an evolutionary ladder."
+ESC_LASER_CREATURE_6_DESC: "Once an ocular organ, this structure has fully mutated into an energy projector with performance surpassing any conventional laser weapon."
 SMALL_ESC_LASER_CREATURE_6: "$esc_small$ $ESC_LASER_CREATURE_6$"
 SMALL_ESC_LASER_CREATURE_6_DESC: "$ESC_LASER_CREATURE_6_DESC$"
 MEDIUM_ESC_LASER_CREATURE_6: "$esc_medium$ $ESC_LASER_CREATURE_6$"
@@ -38,7 +38,7 @@ XL_ESC_LASER_CREATURE_6_DESC: "$ESC_LASER_CREATURE_6_DESC$"
 
 # Aurora Laser
 ESC_LASER_7: "Aurora Laser"
-ESC_LASER_7_DESC: "Pretty like a star, deadly like fires of Hell."
+ESC_LASER_7_DESC: "A high-intensity laser that burns with the brilliance of a star, capable of cutting through even heavily-armored hulls."
 SMALL_ESC_LASER_7: "$esc_small$ $ESC_LASER_7$"
 SMALL_ESC_LASER_7_DESC: "$ESC_LASER_7_DESC$"
 MEDIUM_ESC_LASER_7: "$esc_medium$ $ESC_LASER_7$"
@@ -128,7 +128,7 @@ XL_ESC_PLASMA_CREATURE_5_DESC: "$ESC_BIO_PLASMA_5_DESC$"
 
 # Tachyon Disruptor
 ESC_DISRUPTOR_4: "Tachyon Disruptor"
-ESC_DISRUPTOR_4_DESC: "This specialized weapon uses tachyon beams in order to disrupt subatomic particles' bond, effectively destroying any matter it is shined upon."
+ESC_DISRUPTOR_4_DESC: "This specialized weapon uses tachyon beams to disrupt subatomic particle bonds, effectively destroying any matter the beam contacts."
 SMALL_ESC_DISRUPTOR_4: "$esc_small$ $ESC_DISRUPTOR_4$"
 SMALL_ESC_DISRUPTOR_4_DESC: "$ESC_DISRUPTOR_4_DESC$"
 MEDIUM_ESC_DISRUPTOR_4: "$esc_medium$ $ESC_DISRUPTOR_4$"
@@ -180,7 +180,7 @@ XL_ESC_DISRUPTOR_CREATURE_5_DESC: "$ESC_BIO_DISRUPTOR_5_DESC$"
 
 # Muon Launcher
 ESC_ENERGY_TORPEDO_3: "Muon Launcher"
-ESC_ENERGY_TORPEDO_3_DESC: "This energy launcher utilizes unstable and rather short-lived muon as its main damage dealing agent. It is very effective."
+ESC_ENERGY_TORPEDO_3_DESC: "This energy launcher fires unstable, short-lived muons that are highly effective as a damage-dealing agent."
 
 ESC_BIO_ENERGY_TORPEDO_3: "Biological Muon Launcher"
 ESC_BIO_ENERGY_TORPEDO_3_DESC: "This specialized organ can generate and launch unstable and rather short-lived muons, which are very effective as a damage-dealing agent."
@@ -198,10 +198,10 @@ XL_ESC_ENERGY_TORPEDO_CREATURE_3_DESC: "$ESC_BIO_ENERGY_TORPEDO_3_DESC$"
 
 # Antimatter Launcher
 ESC_ENERGY_TORPEDO_4: "Antimatter Launcher"
-ESC_ENERGY_TORPEDO_4_DESC: "Antimatter is the ultimate 'explosive' that annihilates any normal matter it touches. This energy launcher fires a cocktail of anti-particles, ensuring that anything its shots hit will be devastated."
+ESC_ENERGY_TORPEDO_4_DESC: "This energy launcher fires a cocktail of anti-particles that annihilate any normal matter on contact, causing devastating damage to the target."
 
 ESC_BIO_ENERGY_TORPEDO_4: "Biological Antimatter Launcher"
-ESC_BIO_ENERGY_TORPEDO_4_DESC: "Highly-specialized organ that is capable of accumulating, safely-storing and launching clumps of antimatter. Anything it attacks will be devastated."
+ESC_BIO_ENERGY_TORPEDO_4_DESC: "A highly-specialized organ capable of accumulating, safely storing, and launching clumps of antimatter, causing devastating damage on impact."
 
 ESC_ENERGY_TORPEDO_CREATURE_4: "$ESC_BIO_ENERGY_TORPEDO_4$"
 ESC_ENERGY_TORPEDO_CREATURE_4_DESC: "$ESC_BIO_ENERGY_TORPEDO_4_DESC$"
@@ -216,7 +216,7 @@ XL_ESC_ENERGY_TORPEDO_CREATURE_4_DESC: "$ESC_BIO_ENERGY_TORPEDO_4_DESC$"
 
 # Chrono-Vortex Cannon
 ESC_CHRONO_CANNON: "Chrono-Vortex Cannon"
-ESC_CHRONO_CANNON_DESC: "This terrifying weapon tears enemy ships apart with unstable distortions of the time-space continuum."
+ESC_CHRONO_CANNON_DESC: "This weapon tears enemy ships apart with unstable distortions of the space-time continuum."
 SMALL_ESC_CHRONO_CANNON: "$esc_small$ $ESC_CHRONO_CANNON$"
 SMALL_ESC_CHRONO_CANNON_DESC: "$ESC_CHRONO_CANNON_DESC$"
 MEDIUM_ESC_CHRONO_CANNON: "$esc_medium$ $ESC_CHRONO_CANNON$"
@@ -250,7 +250,7 @@ ESC_CLOUD_LIGHTNING_2_DESC: "An empowered version of space cloud's natural light
 
 # Thunderstorm Generator
 ESC_CLOUD_LIGHTNING_3: "Thunderstorm Generator"
-ESC_CLOUD_LIGHTNING_3_DESC: "Devastating lightning that will tear ships of our enemies apart."
+ESC_CLOUD_LIGHTNING_3_DESC: "A devastating lightning weapon capable of tearing apart even the most heavily-armored warships."
 
 # Amplified Cloud Lightning : creatures
 ESC_CLOUD_LIGHTNING_CREATURE_2: "$ESC_CLOUD_LIGHTNING_2$"
@@ -360,10 +360,10 @@ XL_ESC_PARTICLE_LANCE_CREATURE_3_DESC: "$ESC_BIO_PARTICLE_LANCE_3_DESC$"
 
 # Hyperdimensional Lance
 ESC_PARTICLE_LANCE_4: "Hyperdimensional Lance"
-ESC_PARTICLE_LANCE_4_DESC: "This particle lance uses specialized generators to locally distort time and space in order to let the tachyons it fires to move towards the target though several different dimensions simultaneously."
+ESC_PARTICLE_LANCE_4_DESC: "This particle lance uses specialized generators to locally distort space-time, allowing the tachyons it fires to travel toward the target through several dimensions simultaneously."
 
 ESC_BIO_PARTICLE_LANCE_4: "Hyperdimensional Particle Beam"
-ESC_BIO_PARTICLE_LANCE_4_DESC: "A highly-mutated organ that allows a creature to locally distory time and space letting a beam of tachyons it fires to move towards the target though several different dimensions simultaneously."
+ESC_BIO_PARTICLE_LANCE_4_DESC: "A highly-mutated organ that locally distorts space-time, allowing the tachyon beam it fires to travel toward the target through several dimensions simultaneously."
 
 ESC_PARTICLE_LANCE_CREATURE_4: "$ESC_BIO_PARTICLE_LANCE_4$"
 ESC_PARTICLE_LANCE_CREATURE_4_DESC: "$ESC_BIO_PARTICLE_LANCE_4_DESC$"
@@ -409,7 +409,7 @@ ESC_ARC_EMITTER_4: "Arc Cannon"
 ESC_ARC_EMITTER_4_DESC: "An even more powerful version of the Lightning Cannon, capable of destroying even the most hardened targets."
 
 ESC_BIO_ARC_EMITTER_4: "Arc Bio-cannon"
-ESC_BIO_ARC_EMITTER_4_DESC: "This lightning bio-cannon underwent even deeper mutations to achieve extreme power. It's bolts of electricity are capable of destroying even the most hardened targets."
+ESC_BIO_ARC_EMITTER_4_DESC: "This lightning bio-cannon underwent deep mutations to achieve extreme power. Its bolts of electricity are capable of destroying even the most hardened targets."
 
 ESC_ARC_EMITTER_CREATURE_4: "$ESC_BIO_ARC_EMITTER_4$"
 ESC_ARC_EMITTER_CREATURE_4_DESC: "$ESC_BIO_ARC_EMITTER_4_DESC$"
@@ -424,7 +424,7 @@ XL_ESC_ARC_EMITTER_CREATURE_4_DESC: "$ESC_BIO_ARC_EMITTER_4_DESC$"
 
 # Divine Thunder
 ESC_ARC_EMITTER_TITANIC: "Divine Thunder"
-ESC_ARC_EMITTER_TITANIC_DESC: "The echoes of the Celestial Storms that strike our enemies with merciless force."
+ESC_ARC_EMITTER_TITANIC_DESC: "A titanic arc emitter that replicates the devastating electrical discharges of celestial storms, striking targets with immense force."
 ESC_ARC_EMITTER_JUGGERNAUT: "$ESC_ARC_EMITTER_TITANIC$ ($juggernaut$)"
 ESC_ARC_EMITTER_JUGGERNAUT_DESC: "$ESC_ARC_EMITTER_TITANIC_DESC$"
 ESC_ARC_BIO_EMITTER_TITANIC: "$ESC_ARC_EMITTER_TITANIC$"
@@ -434,7 +434,7 @@ ESC_ARC_BIO_EMITTER_JUGGERNAUT_DESC: "$ESC_ARC_EMITTER_TITANIC_DESC$"
 
 # Wave-Motion Gun
 ESC_WAVEMOTIONGUN_1: "Wave-Motion Gun"
-ESC_WAVEMOTIONGUN_1_DESC: "Specialized exhaust ports allow us to temporarily redirect the engine exhaust and turn into a damaging lance that can destroy anything unfortunate enough to be in its path."
+ESC_WAVEMOTIONGUN_1_DESC: "Specialized exhaust ports temporarily redirect engine exhaust into a damaging lance that can destroy anything in its path."
 
 ESC_BIO_WAVEMOTIONGUN_1: "Proton Scream"
 ESC_BIO_WAVEMOTIONGUN_1_DESC: "A curious mutation that allows this creature to exhale a destructive beam of highly-ionized gases that can lance through anything unfortunate enough to be in its path."
@@ -481,7 +481,7 @@ ESC_BIO_WAVEMOTIONGUN_JUGGERNAUT_DESC: "$ESC_BIO_WAVEMOTIONGUN_3_DESC$"
 
 # Arc-en-Ciel Cannon
 ESC_ARC_EN_CIEL: "Arc-en-Ciel Cannon"
-ESC_ARC_EN_CIEL_DESC: "A terrifying weapon that seals its target in a pocket dimension and then forces it to undergo Big Crunch, effectively destroying any trace of the target ever existing."
+ESC_ARC_EN_CIEL_DESC: "This weapon seals its target in a pocket dimension and forces it to undergo a Big Crunch, obliterating any trace of the target's existence."
 ESC_ARC_EN_CIEL_TITANIC: "$ESC_ARC_EN_CIEL$"
 ESC_ARC_EN_CIEL_TITANIC_DESC: "$ESC_ARC_EN_CIEL_DESC$"
 ESC_ARC_EN_CIEL_JUGGERNAUT: "$ESC_ARC_EN_CIEL$ ($juggernaut$)"
@@ -498,7 +498,7 @@ LARGE_ESC_EXTRADIMENSIONAL_WEAPON_2: "$esc_large$ $ESC_EXTRADIMENSIONAL_WEAPON_2
 LARGE_ESC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$ESC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
 
 ESC_ED_WEAPON_CREATURE_2: "$ESC_EXTRADIMENSIONAL_WEAPON_2$"
-ESC_ED_WEAPON_CREATURE_2_DESC: "An evolved version of extradimensional trophy weapon, the Matter Disintegrator. Developing adaptations allow for greater power and control without putting the creature wiedling it under undue stress."
+ESC_ED_WEAPON_CREATURE_2_DESC: "An evolved version of the extradimensional trophy weapon, the Matter Disintegrator. Developing adaptations allow for greater power and control without placing undue stress on the creature wielding it."
 SMALL_ESC_ED_WEAPON_CREATURE_2: "$esc_small$ $ESC_EXTRADIMENSIONAL_WEAPON_2$"
 SMALL_ESC_ED_WEAPON_CREATURE_2_DESC: "$ESC_ED_WEAPON_CREATURE_2_DESC$"
 MEDIUM_ESC_ED_WEAPON_CREATURE_2: "$esc_medium$ $ESC_EXTRADIMENSIONAL_WEAPON_2$"
@@ -524,7 +524,7 @@ LARGE_ESC_EXTRADIMENSIONAL_WEAPON_3: "$esc_large$ $ESC_EXTRADIMENSIONAL_WEAPON_3
 LARGE_ESC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$ESC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
 
 ESC_ED_WEAPON_CREATURE_3: "$ESC_EXTRADIMENSIONAL_WEAPON_3$"
-ESC_ED_WEAPON_CREATURE_3_DESC: "An addition of genetic material responsible for handling Null Void energy amplification has greatly enhanced the power of biological Matter Disintegrator, allowing it erase even reality itself."
+ESC_ED_WEAPON_CREATURE_3_DESC: "An addition of genetic material for handling Null Void energy amplification has greatly enhanced the power of the biological Matter Disintegrator, allowing it to erase even reality itself."
 SMALL_ESC_ED_WEAPON_CREATURE_3: "$esc_small$ $ESC_EXTRADIMENSIONAL_WEAPON_3$"
 SMALL_ESC_ED_WEAPON_CREATURE_3_DESC: "$ESC_ED_WEAPON_CREATURE_3_DESC$"
 MEDIUM_ESC_ED_WEAPON_CREATURE_3: "$esc_medium$ $ESC_EXTRADIMENSIONAL_WEAPON_3$"
@@ -562,7 +562,7 @@ LARGE_ESC_MASS_DRIVER_6: "$esc_large$ $ESC_MASS_DRIVER_6$"
 LARGE_ESC_MASS_DRIVER_6_DESC: "$ESC_MASS_DRIVER_6_DESC$"
 
 ESC_BIO_MASS_DRIVER_6: "Evolved Shard Gauss Accelerator"
-ESC_BIO_MASS_DRIVER_6_DESC: "An improved version of the Shard Gauss Accelerator that can harness even stronger bioelectric currents, thus being able to shoot projectiles at even higher speeds and deal even more damage with them."
+ESC_BIO_MASS_DRIVER_6_DESC: "An improved version of the Shard Gauss Accelerator that harnesses stronger bioelectric currents, shooting projectiles at higher speeds for greater damage."
 SMALL_ESC_BIO_MASS_DRIVER_6: "$esc_small$ $ESC_BIO_MASS_DRIVER_6$"
 SMALL_ESC_BIO_MASS_DRIVER_6_DESC: "$ESC_BIO_MASS_DRIVER_6_DESC$"
 MEDIUM_ESC_BIO_MASS_DRIVER_6: "$esc_medium$ $ESC_BIO_MASS_DRIVER_6$"
@@ -616,7 +616,7 @@ ESC_ARTILLERY_3: "Advanced Kinetic Artillery"
 ESC_ARTILLERY_3_DESC: "An improved version of the Kinetic Artillery with upgraded stabilizers and more powerful linear accelerators that allow for even faster projectiles."
 
 ESC_BIO_ARTILLERY_3: "Evolved Chitin Artillery"
-ESC_BIO_ARTILLERY_3_DESC: "An evolved version of the Chitin Artillery with an even greater number of support appendages for extra power and stability. More advantageous muscle arrangement further improves power of this biological artillery cannon."
+ESC_BIO_ARTILLERY_3_DESC: "An evolved version of the Chitin Artillery featuring a greater number of support appendages and a more advantageous muscle arrangement for improved power and stability."
 
 ESC_ARTILLERY_CREATURE_3: "$ESC_BIO_ARTILLERY_3$"
 ESC_ARTILLERY_CREATURE_3_DESC: "$ESC_BIO_ARTILLERY_3_DESC$"
@@ -658,7 +658,7 @@ LARGE_ESC_AUTOCANNON_4: "$esc_large$ $ESC_AUTOCANNON_4$"
 LARGE_ESC_AUTOCANNON_4_DESC: "$ESC_AUTOCANNON_4_DESC$"
 
 ESC_BIO_AUTOCANNON_4: "Evolved Stormfire Quill Battery"
-ESC_BIO_AUTOCANNON_4_DESC: "An evolved version of the Stormfire Quill Batterythat is capable of even higher fire rates without any sacrifices to power or precision."
+ESC_BIO_AUTOCANNON_4_DESC: "An evolved version of the Stormfire Quill Battery that is capable of even higher fire rates without any sacrifices to power or precision."
 SMALL_ESC_BIO_AUTOCANNON_4: "$esc_small$ $ESC_BIO_AUTOCANNON_4$"
 SMALL_ESC_BIO_AUTOCANNON_4_DESC: "$ESC_BIO_AUTOCANNON_4_DESC$"
 MEDIUM_ESC_BIO_AUTOCANNON_4: "$esc_medium$ $ESC_BIO_AUTOCANNON_4$"
@@ -750,16 +750,16 @@ ESC_MASS_ACCELERATOR_JUGGERNAUT: "$ESC_MASS_ACCELERATOR_TITANIC$ ($juggernaut$)"
 ESC_MASS_ACCELERATOR_JUGGERNAUT_DESC: "$ESC_MASS_ACCELERATOR_TITANIC_DESC$"
 
 ESC_BIO_MASS_ACCELERATOR_TITANIC: "$ESC_MASS_ACCELERATOR_TITANIC$"
-ESC_BIO_MASS_ACCELERATOR_TITANIC_DESC: "This weapon pushes the power of biological mass accelerators to the limits by firing heavy, dense chitin projectile at near-lightspeed velocities."
+ESC_BIO_MASS_ACCELERATOR_TITANIC_DESC: "This weapon pushes the power of biological mass accelerators to the limits by firing heavy, dense chitin projectiles at near-lightspeed velocities."
 ESC_BIO_MASS_ACCELERATOR_JUGGERNAUT: "$ESC_MASS_ACCELERATOR_TITANIC$ ($juggernaut$)"
 ESC_BIO_MASS_ACCELERATOR_JUGGERNAUT_DESC: "$ESC_BIO_MASS_ACCELERATOR_TITANIC_DESC$"
 
 # Hailstorm Autocannon
 ESC_AUTOCANNON_X_1: "Hailstorm Autocannon"
-ESC_AUTOCANNON_X_1_DESC: "A gigantic autocannon that can hose our enemies with truly staggering amounts of bullets."
+ESC_AUTOCANNON_X_1_DESC: "A gigantic autocannon capable of firing truly staggering amounts of bullets at any target."
 
 ESC_BIO_AUTOCANNON_X_1: "Hailstorm Quill Battery"
-ESC_BIO_AUTOCANNON_X_1_DESC: "A mutated, gigantic version of Quill Battery that can hose our enemies with staggering amounts of deadly quill projectiles."
+ESC_BIO_AUTOCANNON_X_1_DESC: "A mutated, gigantic version of the Quill Battery capable of firing staggering amounts of deadly quill projectiles at any target."
 
 # Firestorm Autocannon
 ESC_AUTOCANNON_X_2: "Firestorm Autocannon"
@@ -770,12 +770,12 @@ ESC_BIO_AUTOCANNON_X_2_DESC: "An evolution of Hailstorm Quill Battery, capable o
 
 # Tempest Autocannon
 ESC_AUTOCANNON_T: "Tempest Autocannon"
-ESC_AUTOCANNON_T_DESC: "A truly titanic autocannon with unprecedented power. May our enemies melt before it."
+ESC_AUTOCANNON_T_DESC: "A titanic autocannon with unprecedented power, capable of overwhelming any target it is directed against."
 ESC_AUTOCANNON_J: "$ESC_AUTOCANNON_T$ ($juggernaut$)"
 ESC_AUTOCANNON_J_DESC: "$ESC_AUTOCANNON_T_DESC$"
 
 ESC_BIO_AUTOCANNON_T: "Tempest Quill Battery"
-ESC_BIO_AUTOCANNON_T_DESC: "This titanic Quill Battery possesses an unmatched power and rate of fire. May our enemies melt before it."
+ESC_BIO_AUTOCANNON_T_DESC: "This titanic Quill Battery possesses unmatched power and rate of fire, capable of overwhelming any target it is directed against."
 ESC_BIO_AUTOCANNON_J: "$ESC_BIO_AUTOCANNON_T$ ($juggernaut$)"
 ESC_BIO_AUTOCANNON_J_DESC: "$ESC_BIO_AUTOCANNON_T_DESC$"
 
@@ -831,7 +831,7 @@ XL_ESC_MHD_CANNON_CREATURE_2_DESC: "$ESC_BIO_MHD_CANNON_2_DESC$"
 
 # MagnetoHydroDynamic Cannon
 ESC_MHD_CANNON_TITANIC: "MagnetoHydroDynamic Cannon"
-ESC_MHD_CANNON_TITANIC_DESC: "An upscaled version of the Ferromagnetic Liquid Cannon that was designed specifically for our biggest and most powerful ships."
+ESC_MHD_CANNON_TITANIC_DESC: "An upscaled version of the Ferromagnetic Liquid Cannon designed specifically for the largest and most powerful warships."
 ESC_MHD_CANNON_JUGGERNAUT: "$ESC_MHD_CANNON_TITANIC$ ($juggernaut$)"
 ESC_MHD_CANNON_JUGGERNAUT_DESC: "$ESC_MHD_CANNON_TITANIC_DESC$"
 
@@ -842,7 +842,7 @@ ESC_BIO_MHD_CANNON_JUGGERNAUT_DESC: "$ESC_BIO_MHD_CANNON_TITANIC_DESC$"
 
 # Asteroid Thrower
 ESC_ASTEROID_THROWER: "Asteroid Thrower"
-ESC_ASTEROID_THROWER_DESC: "A very simplistic weapon for space combat that amounts to throwing a large rock at the enemy. Still, it's surprisingly effective because the thrown rock is BIG."
+ESC_ASTEROID_THROWER_DESC: "A simplistic weapon that hurls large rocks at enemy vessels. Surprisingly effective given the sheer mass of the projectiles involved."
 
 ############################################################
 ##                      Missile Weapons                   ##
@@ -865,10 +865,10 @@ XL_ESC_MISSILE_CREATURE_6_DESC: "$ESC_MISSILE_CREATURE_6_DESC$"
 
 # Wraith Missiles
 ESC_MISSILE_7: "Wraith Missile"
-ESC_MISSILE_7_DESC: "With this missile, for our enemies Death comes unannounced."
+ESC_MISSILE_7_DESC: "An exceptionally stealthy missile that is nearly impossible to detect or intercept before impact."
 
 ESC_MISSILE_CREATURE_7: "Wraith Bio-Missile"
-ESC_MISSILE_CREATURE_7_DESC: "With this bio-missile, for our enemies Death comes unannounced."
+ESC_MISSILE_CREATURE_7_DESC: "An exceptionally stealthy biological missile that is nearly impossible to detect or intercept before impact."
 SMALL_ESC_MISSILE_CREATURE_7: "$ESC_MISSILE_CREATURE_7$"
 SMALL_ESC_MISSILE_CREATURE_7_DESC: "$ESC_MISSILE_CREATURE_7_DESC$"
 MEDIUM_ESC_MISSILE_CREATURE_7: "$ESC_MISSILE_CREATURE_7$"
@@ -922,7 +922,7 @@ XL_ESC_PLASMA_MISSILE_CREATURE_2_DESC: "$ESC_PLASMA_MISSILE_2_DESC$"
 
 # Incinerator Missile
 ESC_PLASMA_MISSILE_3: "Incinerator Missile"
-ESC_PLASMA_MISSILE_3_DESC: "This plasma missile will burn our enemies to ashes."
+ESC_PLASMA_MISSILE_3_DESC: "This plasma missile burns targets at extreme temperatures, capable of reducing even armored hulls to slag."
 SMALL_ESC_PLASMA_MISSILE_3: "$esc_small$ $ESC_PLASMA_MISSILE_3$"
 SMALL_ESC_PLASMA_MISSILE_3_DESC: "$ESC_PLASMA_MISSILE_3_DESC$"
 MEDIUM_ESC_PLASMA_MISSILE_3: "$esc_medium$ $ESC_PLASMA_MISSILE_3$"
@@ -943,10 +943,10 @@ XL_ESC_PLASMA_MISSILE_CREATURE_3_DESC: "$ESC_PLASMA_MISSILE_3_DESC$"
 
 # Desolator Torpedo
 ESC_TORPEDO_4: "Desolator Torpedo"
-ESC_TORPEDO_4_DESC: "A new generation of space torpedoes that are more destructive than any we've created before."
+ESC_TORPEDO_4_DESC: "A new generation of space torpedoes with greater destructive potential than any previous design."
 
 ESC_TORPEDO_CREATURE_4: "Desolator Bio-Torpedo"
-ESC_TORPEDO_CREATURE_4_DESC: "A new generation of biological space torpedoes with greater destructive potential than any we've created before."
+ESC_TORPEDO_CREATURE_4_DESC: "A new generation of biological space torpedoes with greater destructive potential than any previous design."
 SMALL_ESC_TORPEDO_CREATURE_4: "$ESC_TORPEDO_CREATURE_4$"
 SMALL_ESC_TORPEDO_CREATURE_4_DESC: "$ESC_TORPEDO_CREATURE_4_DESC$"
 MEDIUM_ESC_TORPEDO_CREATURE_4: "$ESC_TORPEDO_CREATURE_4$"
@@ -958,10 +958,10 @@ XL_ESC_TORPEDO_CREATURE_4_DESC: "$ESC_TORPEDO_CREATURE_4_DESC$"
 
 # Eradicator Torpedo
 ESC_TORPEDO_5: "Eradicator Torpedo"
-ESC_TORPEDO_5_DESC: "This weapon of unbelievable power is the newest generation of our torpedoes, one that can eradicate any of our enemies."
+ESC_TORPEDO_5_DESC: "The newest generation of space torpedoes, featuring extraordinary destructive power capable of eradicating even the most heavily-armored targets."
 
 ESC_TORPEDO_CREATURE_5: "Eradicator Bio-Torpedo"
-ESC_TORPEDO_CREATURE_5_DESC: "A further evolution of biological space torpedoes, one with the power to eradicate any and all of our enemies."
+ESC_TORPEDO_CREATURE_5_DESC: "A further evolution of biological space torpedoes with extraordinary destructive power, capable of eradicating even the most heavily-armored targets."
 SMALL_ESC_TORPEDO_CREATURE_5: "$ESC_TORPEDO_CREATURE_5$"
 SMALL_ESC_TORPEDO_CREATURE_5_DESC: "$ESC_TORPEDO_CREATURE_5_DESC$"
 MEDIUM_ESC_TORPEDO_CREATURE_5: "$ESC_TORPEDO_CREATURE_5$"
@@ -973,10 +973,10 @@ XL_ESC_TORPEDO_CREATURE_5_DESC: "$ESC_TORPEDO_CREATURE_5_DESC$"
 
 # Corrosive Warhead Torpedo
 ESC_CORROSIVE_WARHEAD: "Corrosive Warhead Torpedo"
-ESC_CORROSIVE_WARHEAD_DESC: "Instead of a conventional or unconventional explosive, this torpedo carries a curius device that will tear the very time-space continuum around our enemies apart."
+ESC_CORROSIVE_WARHEAD_DESC: "Instead of a conventional explosive, this torpedo carries a device that tears the space-time continuum around the target apart."
 
 ESC_CORROSIVE_WARHEAD_CREATURE: "$ESC_CORROSIVE_WARHEAD$"
-ESC_CORROSIVE_WARHEAD_CREATURE_DESC: "This biological torpedo carries an unstable formation of dark matter instead of a more conventional warhead. Its 'detonation' will tear apart the very fabric of time-space continuum around our enemies."
+ESC_CORROSIVE_WARHEAD_CREATURE_DESC: "This biological torpedo carries an unstable formation of dark matter instead of a conventional warhead. Its detonation tears apart the fabric of space-time around the target."
 SMALL_ESC_CORROSIVE_WARHEAD_CREATURE: "$ESC_CORROSIVE_WARHEAD_CREATURE$"
 SMALL_ESC_CORROSIVE_WARHEAD_CREATURE_DESC: "$ESC_CORROSIVE_WARHEAD_CREATURE_DESC$"
 MEDIUM_ESC_CORROSIVE_WARHEAD_CREATURE: "$ESC_CORROSIVE_WARHEAD_CREATURE$"
@@ -1040,7 +1040,7 @@ ESC_XMISSILE_2_DESC: "Improved version of the Exotic Matter Warhead that has an 
 
 # Reflex Warhead Launcher
 ESC_XMISSILE_3_TITANIC: "Reflex Warhead Launcher"
-ESC_XMISSILE_3_TITANIC_DESC: "This anti-capital ship missile carries an incredibly powerful Reflex Warhead and can devastate any ship in our enemies' fleets."
+ESC_XMISSILE_3_TITANIC_DESC: "This anti-capital ship missile carries an incredibly powerful Reflex Warhead, capable of devastating any ship it strikes."
 ESC_XMISSILE_3_JUGGERNAUT: "$ESC_XMISSILE_3_TITANIC$ ($juggernaut$)"
 ESC_XMISSILE_3_JUGGERNAUT_DESC: "$ESC_XMISSILE_3_TITANIC_DESC$"
 
@@ -1068,10 +1068,10 @@ XL_ESC_FLAK_CANNON_CREATURE_4_DESC: "$ESC_BIO_FLAK_CANNON_4_DESC$"
 
 # Ironcloud Defender
 ESC_FLAK_CANNON_5: "Ironcloud Defender"
-ESC_FLAK_CANNON_5_DESC: "This incredible flak cannon creates a virtual cloud of metal that acts an impenetrable shield against missiles and strikescraft."
+ESC_FLAK_CANNON_5_DESC: "This flak cannon creates a virtual cloud of metal fragments that acts as an impenetrable shield against missiles and strike craft."
 
 ESC_BIO_FLAK_CANNON_5: "Ironcloud Barb Artillery"
-ESC_BIO_FLAK_CANNON_5_DESC: "A highly-evolved barb artillery piece that is controlled by a sophisticated neural cluster and possesses a set of powerful muscles that are capable of launching a virtual cloud of barbs to act as an impenetrable shield against enemy missiles and strikecrafts."
+ESC_BIO_FLAK_CANNON_5_DESC: "A highly-evolved barb artillery piece controlled by a sophisticated neural cluster, capable of launching a virtual cloud of barbs to intercept enemy missiles and strike craft."
 
 ESC_FLAK_CANNON_CREATURE_5: "$ESC_BIO_FLAK_CANNON_5$"
 ESC_FLAK_CANNON_CREATURE_5_DESC: "$ESC_BIO_FLAK_CANNON_5_DESC$"
@@ -1182,7 +1182,7 @@ ESC_BOMBERS_HANGAR_6_DESC: "This bomber wing has been enhanced with advanced tec
 
 # Mercenary Squadron
 ESC_MERCENRY_HANGAR_1: "Mercenary Squadron"
-ESC_MERCENRY_HANGAR_1_DESC: "These strike crafts belong to and are operated by various mercenaries. Their loyalty belong to those with the money and their current employer is definitely paying them enough to secure it."
+ESC_MERCENRY_HANGAR_1_DESC: "These strike craft belong to and are operated by various mercenaries, whose loyalty is secured by whoever pays the most."
 
 # Elite Mercenary Squadron
 ESC_MERCENRY_HANGAR_2: "Elite Mercenary Squadron"
@@ -1205,7 +1205,7 @@ XL_ESC_AMOEBA_CREATURE_2_DESC: "$ESC_AMOEBA_2_DESC$"
 
 # Genetically-Engineered Amoebas
 ESC_AMOEBA_BIO_3: "Genetically-Engineered Amoebas"
-ESC_AMOEBA_BIO_3_DESC: "These amoebas have beed subjected artificially created through genetic manipulation. They possess powers far beyond what one might find in natural-born amoebas."
+ESC_AMOEBA_BIO_3_DESC: "These amoebas were created through genetic manipulation and possess capabilities far beyond what one might find in natural-born specimens."
 
 ESC_AMOEBA_BIO_CREATURE_3: "$ESC_AMOEBA_BIO_3$"
 ESC_AMOEBA_BIO_CREATURE_3_DESC: "$ESC_AMOEBA_BIO_3_DESC$"
@@ -1265,7 +1265,7 @@ XL_ESC_AMOEBA_CYBER_CREATURE_4_DESC: "$ESC_AMOEBA_CYBER_4_DESC$"
 
 # Ravaging Swarmers
 ESC_SWARMER_STRIKECRAFT_2: "Ravaging Swarmers"
-ESC_SWARMER_STRIKECRAFT_2_DESC: "These swarmers have been trained and drugged into becoming the most visious organic strikecrafts this galaxy has ever seen."
+ESC_SWARMER_STRIKECRAFT_2_DESC: "These swarmers have been trained and conditioned into becoming among the most vicious organic strike craft in the galaxy."
 
 ESC_SWARMER_STRIKECRAFT_CREATURE_2: "$ESC_SWARMER_STRIKECRAFT_2$"
 ESC_SWARMER_STRIKECRAFT_CREATURE_2_DESC: "$ESC_SWARMER_STRIKECRAFT_2_DESC$"

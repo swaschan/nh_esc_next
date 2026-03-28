@@ -7,7 +7,7 @@
 ############################################################
 
 ESC_ARMOR_6: "Improved Neutronium Armor"
-ESC_ARMOR_6_DESC: "This improved version of Neutronium armor features the new generation of a multilayered composite armor with layers of ultra-dense neutronium. This armor is said to be able to shrug off almost anything."
+ESC_ARMOR_6_DESC: "This improved version of Neutronium armor features the next generation of multilayered composite construction with ultra-dense neutronium layers, offering exceptional protection against almost any attack."
 SMALL_ESC_ARMOR_6: "$esc_small$ $ESC_ARMOR_6$"
 SMALL_ESC_ARMOR_6_DESC: "$ESC_ARMOR_6_DESC$"
 MEDIUM_ESC_ARMOR_6: "$esc_medium$ $ESC_ARMOR_6$"
@@ -69,7 +69,7 @@ XL_ESC_ARMOR_CREATURE_7_DESC: "$ESC_BIOSHIP_ARMOR_7_DESC$"
 ############################################################
 
 ESC_BIO_ARMOR_1: "Bio-Material Armor"
-ESC_BIO_ARMOR_1_DESC: "Part multilayered composite armor, part living creature, this rather unconventional ship armor provides a good level of protection against attack while also possessing regenerative abilities we normally associate with living things."
+ESC_BIO_ARMOR_1_DESC: "Part multilayered composite armor, part living creature, this unconventional ship armor provides solid protection while also possessing the regenerative abilities of living tissue."
 SMALL_ESC_BIO_ARMOR_1: "$esc_small$ $ESC_BIO_ARMOR_1$"
 SMALL_ESC_BIO_ARMOR_1_DESC: "$ESC_BIO_ARMOR_1_DESC$"
 MEDIUM_ESC_BIO_ARMOR_1: "$esc_medium$ $ESC_BIO_ARMOR_1$"
@@ -78,7 +78,7 @@ LARGE_ESC_BIO_ARMOR_1: "$esc_large$ $ESC_BIO_ARMOR_1$"
 LARGE_ESC_BIO_ARMOR_1_DESC: "$ESC_BIO_ARMOR_1_DESC$"
 
 ESC_BIO_ARMOR_2: "Improved Bio-Material Armor"
-ESC_BIO_ARMOR_2_DESC: "This improved bio-material armor is stronger than the older model, and can regenerate from any damage inflicted upon it faster. It is the best armor our engineers and scientists can think of."
+ESC_BIO_ARMOR_2_DESC: "This improved bio-material armor is stronger than the older model and regenerates from damage more rapidly."
 SMALL_ESC_BIO_ARMOR_2: "$esc_small$ $ESC_BIO_ARMOR_2$"
 SMALL_ESC_BIO_ARMOR_2_DESC: "$ESC_BIO_ARMOR_2_DESC$"
 MEDIUM_ESC_BIO_ARMOR_2: "$esc_medium$ $ESC_BIO_ARMOR_2$"
@@ -117,7 +117,7 @@ XL_ESC_BIO_ARMOR_CREATURE_2_DESC: "$ESC_BIO_ARMOR_CREATURE_2_DESC$"
 ############################################################
 
 ESC_NANO_ARMOR_1: "Nanomaterial Armor"
-ESC_NANO_ARMOR_1_DESC: "By integrating nanites programmed to run repair jobs into the ship's hull it is possible to create an armor that not only protects a ship from damage, but also swiftly repairs any damage that it couldn't prevent."
+ESC_NANO_ARMOR_1_DESC: "By integrating repair-programmed nanites into the ship's hull, this armor not only protects against damage but also swiftly repairs any damage it could not prevent."
 SMALL_ESC_NANO_ARMOR_1: "$esc_small$ $ESC_NANO_ARMOR_1$"
 SMALL_ESC_NANO_ARMOR_1_DESC: "$ESC_NANO_ARMOR_1_DESC$"
 MEDIUM_ESC_NANO_ARMOR_1: "$esc_medium$ $ESC_NANO_ARMOR_1$"
@@ -126,7 +126,7 @@ LARGE_ESC_NANO_ARMOR_1: "$esc_large$ $ESC_NANO_ARMOR_1$"
 LARGE_ESC_NANO_ARMOR_1_DESC: "$ESC_NANO_ARMOR_1_DESC$"
 
 ESC_BIOSHIP_NANO_ARMOR_1: "Nanomaterial-infused Carapace"
-ESC_BIOSHIP_NANO_ARMOR_1_DESC: "By integrating nanites programmed to run repair jobs into the creature's carapace it is possible to give it an armor that not only protects it from damage, but also swiftly repairs any damage that it couldn't prevent."
+ESC_BIOSHIP_NANO_ARMOR_1_DESC: "By integrating repair-programmed nanites into the creature's carapace, this armor not only protects it from damage but also swiftly repairs any damage it could not prevent."
 SMALL_ESC_BIOSHIP_NANO_ARMOR_1: "$esc_small$ $ESC_BIOSHIP_NANO_ARMOR_1$"
 SMALL_ESC_BIOSHIP_NANO_ARMOR_1_DESC: "$ESC_BIOSHIP_NANO_ARMOR_1_DESC$"
 MEDIUM_ESC_BIOSHIP_NANO_ARMOR_1: "$esc_medium$ $ESC_BIOSHIP_NANO_ARMOR_1$"
@@ -208,7 +208,7 @@ XL_ESC_DRAGON_NANOARMOR_CREATURE_DESC: "$ESC_BIOSHIP_DRAGON_NANOARMOR_DESC$"
 ############################################################
 
 ESC_SHIELD_ARMOR_1: "Shielding Armor"
-ESC_SHIELD_ARMOR_1_DESC: "By integrating nanites programmed to generate and maintain energy fields it is possible to create an armor that also acts as a shield generator."
+ESC_SHIELD_ARMOR_1_DESC: "By integrating nanites programmed to generate and maintain energy fields, this armor also acts as a shield generator."
 SMALL_ESC_SHIELD_ARMOR_1: "$esc_small$ $ESC_SHIELD_ARMOR_1$"
 SMALL_ESC_SHIELD_ARMOR_1_DESC: "$ESC_SHIELD_ARMOR_1_DESC$"
 MEDIUM_ESC_SHIELD_ARMOR_1: "$esc_medium$ $ESC_SHIELD_ARMOR_1$"
@@ -299,7 +299,7 @@ XL_ESC_SHIELD_ARMOR_CREATURE_3_DESC: "$ESC_BIO_SHIELD_ARMOR_3_DESC$"
 ############################################################
 
 ESC_HARDLIGHT_ARMOR: "Hardlight Armor"
-ESC_HARDLIGHT_ARMOR_DESC: "Modelled after the 'skin' of the Spectral Wraith, this armor is made out of hardened light. It is incredibly light and very durable and, thanks to the great amounts of energy flowing through it, will re-energize shields."
+ESC_HARDLIGHT_ARMOR_DESC: "Modelled after the 'skin' of the Spectral Wraith, this armor is made from hardened light. It is extremely light yet highly durable, and the energy flowing through it continuously re-energizes shields."
 SMALL_ESC_HARDLIGHT_ARMOR: "$esc_small$ $ESC_HARDLIGHT_ARMOR$"
 SMALL_ESC_HARDLIGHT_ARMOR_DESC: "$ESC_HARDLIGHT_ARMOR_DESC$"
 MEDIUM_ESC_HARDLIGHT_ARMOR: "$esc_medium$ $ESC_HARDLIGHT_ARMOR$"
@@ -308,7 +308,7 @@ LARGE_ESC_HARDLIGHT_ARMOR: "$esc_large$ $ESC_HARDLIGHT_ARMOR$"
 LARGE_ESC_HARDLIGHT_ARMOR_DESC: "$ESC_HARDLIGHT_ARMOR_DESC$"
 
 ESC_HORROR_ARMOR: "Dimensional Horror Armor"
-ESC_HORROR_ARMOR_DESC: "This armor is modelled after the incredibly-tough scales of an extradimensional creature that once tried to invade our galaxy."
+ESC_HORROR_ARMOR_DESC: "This armor is modelled after the incredibly tough scales of an extradimensional creature that once attempted a galactic invasion."
 SMALL_ESC_HORROR_ARMOR: "$esc_small$ $ESC_HORROR_ARMOR$"
 SMALL_ESC_HORROR_ARMOR_DESC: "$ESC_HORROR_ARMOR_DESC$"
 MEDIUM_ESC_HORROR_ARMOR: "$esc_medium$ $ESC_HORROR_ARMOR$"
@@ -317,7 +317,7 @@ LARGE_ESC_HORROR_ARMOR: "$esc_large$ $ESC_HORROR_ARMOR$"
 LARGE_ESC_HORROR_ARMOR_DESC: "$ESC_HORROR_ARMOR_DESC$"
 
 ESC_HORROR_ARMOR_CREATURE: "Dimensional Horror Carapace"
-ESC_HORROR_ARMOR_CREATURE_DESC: "This carapace was genetically-engineered after the incredibly-tough scales of an extradimensional creature that once tried to invade our galaxy."
+ESC_HORROR_ARMOR_CREATURE_DESC: "This carapace was genetically engineered after the incredibly tough scales of an extradimensional creature that once attempted a galactic invasion."
 SMALL_ESC_HORROR_ARMOR_CREATURE: "$esc_small$ $ESC_HORROR_ARMOR_CREATURE$"
 SMALL_ESC_HORROR_ARMOR_CREATURE_DESC: "$ESC_HORROR_ARMOR_CREATURE_DESC$"
 MEDIUM_ESC_HORROR_ARMOR_CREATURE: "$esc_medium$ $ESC_HORROR_ARMOR_CREATURE$"
@@ -328,7 +328,7 @@ XL_ESC_HORROR_ARMOR_CREATURE: "$esc_extra_large$ $ESC_HORROR_ARMOR_CREATURE$"
 XL_ESC_HORROR_ARMOR_CREATURE_DESC: "$ESC_HORROR_ARMOR_CREATURE_DESC$"
 
 ESC_CRYSTAL_ARMOR_3: "Reinforced Crystalline Plating"
-ESC_CRYSTAL_ARMOR_3_DESC: "This specialized crystalline plating is both incredibly light and incredibly hard, and can be used to greatly reinforce hulls of our ships."
+ESC_CRYSTAL_ARMOR_3_DESC: "This specialized crystalline plating is both incredibly light and incredibly hard, greatly reinforcing hull integrity."
 SMALL_ESC_CRYSTAL_ARMOR_3: "$esc_small$ $ESC_CRYSTAL_ARMOR_3$"
 SMALL_ESC_CRYSTAL_ARMOR_3_DESC: "$ESC_CRYSTAL_ARMOR_3_DESC$"
 MEDIUM_ESC_CRYSTAL_ARMOR_3: "$esc_medium$ $ESC_CRYSTAL_ARMOR_3$"
@@ -348,7 +348,7 @@ XL_ESC_CRYSTAL_ARMOR_CREATURE_3: "$esc_large$ $ESC_CRYSTAL_ARMOR_CREATURE_3$"
 XL_ESC_CRYSTAL_ARMOR_CREATURE_3_DESC: "$ESC_CRYSTAL_ARMOR_CREATURE_3_DESC$"
 
 ESC_DREADNOUGHT_ARMOR: "Automated Dreadnought Armor"
-ESC_DREADNOUGHT_ARMOR_DESC: "Special armor plating covering the Automated Dreadnought. It's composition has been lost in the sands of time, but the material itself remains strong as ever."
+ESC_DREADNOUGHT_ARMOR_DESC: "Special armor plating covering the Automated Dreadnought. Its composition has been lost to time, but the material itself remains as strong as ever."
 
 ############################################################
 ###                  Conventional Shields                ###
@@ -422,7 +422,7 @@ LARGE_ESC_SHIELDS_8: "$esc_large$ $ESC_SHIELDS_8$"
 LARGE_ESC_SHIELDS_8_DESC: "$ESC_SHIELDS_8_DESC$"
 
 ESC_BIO_SHIELDS_8: "$ESC_SHIELDS_8$"
-ESC_BIO_SHIELDS_8_DESC: "Further evolution of the ultrahyperbolic biotechnology that allows redirecting energy of incoming attacks into an alternative dimension, thus granting the creature an unparalleled levels of protection."
+ESC_BIO_SHIELDS_8_DESC: "Further evolution of the ultrahyperbolic biotechnology that allows redirecting energy of incoming attacks into an alternative dimension, thus granting the creature unparalleled levels of protection."
 SMALL_ESC_BIO_SHIELDS_8: "$esc_small$ $ESC_SHIELDS_8$"
 SMALL_ESC_BIO_SHIELDS_8_DESC: "$ESC_BIO_SHIELDS_8_DESC$"
 MEDIUM_ESC_BIO_SHIELDS_8: "$esc_medium$ $ESC_SHIELDS_8$"
@@ -442,7 +442,7 @@ XL_ESC_SHIELDS_CREATURE_8: "$esc_extra_large$ $ESC_SHIELDS_8$"
 XL_ESC_SHIELDS_CREATURE_8_DESC: "$ESC_BIO_SHIELDS_8_DESC$"
 
 ESC_SHIELD_DREADNOUGHT: "Automated Dreadnought Shields"
-ESC_SHIELD_DREADNOUGHT_DESC: "Ancient and incredibly-powerful shields of the Automated Dreadnought"
+ESC_SHIELD_DREADNOUGHT_DESC: "Ancient and incredibly powerful shields of the Automated Dreadnought."
 
 ############################################################
 ###                    Cyclonic Shields                  ###
@@ -507,7 +507,7 @@ XL_ESC_CYCLONIC_SHIELDS_CREATURE_2: "$esc_extra_large$ $ESC_CYCLONIC_SHIELDS_CRE
 XL_ESC_CYCLONIC_SHIELDS_CREATURE_2_DESC: "$ESC_CYCLONIC_SHIELDS_CREATURE_2_DESC$"
 
 ESC_CYCLONIC_SHIELDS_3: "Improved Cyclonic Shields"
-ESC_CYCLONIC_SHIELDS_3_DESC: "An even stronger version of Cyclonic Shields that offers great protection to our ships."
+ESC_CYCLONIC_SHIELDS_3_DESC: "An even stronger version of Cyclonic Shields, offering substantially increased field strength."
 SMALL_ESC_CYCLONIC_SHIELDS_3: "$esc_small$ $ESC_CYCLONIC_SHIELDS_3$"
 SMALL_ESC_CYCLONIC_SHIELDS_3_DESC: "$ESC_CYCLONIC_SHIELDS_3_DESC$"
 MEDIUM_ESC_CYCLONIC_SHIELDS_3: "$esc_medium$ $ESC_CYCLONIC_SHIELDS_3$"
@@ -569,7 +569,7 @@ XL_ESC_ENIGMATIC_SHIELD_CREATURE_2: "$esc_extra_large$ $ESC_ENIGMATIC_SHIELD_CRE
 XL_ESC_ENIGMATIC_SHIELD_CREATURE_2_DESC: "$ESC_ENIGMATIC_SHIELD_CREATURE_2_DESC$"
 
 ESC_ENIGMATIC_SHIELD_3: "Perfected Dark Matter Shields"
-ESC_ENIGMATIC_SHIELD_3_DESC: "An ultimate version of shields based utilizing Dark Matter."
+ESC_ENIGMATIC_SHIELD_3_DESC: "The most powerful shields utilizing Dark Matter, offering unmatched defensive strength."
 SMALL_ESC_ENIGMATIC_SHIELD_3: "$esc_small$ $ESC_ENIGMATIC_SHIELD_3$"
 SMALL_ESC_ENIGMATIC_SHIELD_3_DESC: "$ESC_ENIGMATIC_SHIELD_3_DESC$"
 MEDIUM_ESC_ENIGMATIC_SHIELD_3: "$esc_medium$ $ESC_ENIGMATIC_SHIELD_3$"
@@ -722,13 +722,13 @@ ESC_REACTOR_BOOSTER_4: "Auxiliary Zero-Point Reactor"
 ESC_REACTOR_BOOSTER_4_DESC: "An additional zero-point reactor that supplements the ship's power grid with additional power."
 
 ESC_BIO_REACTOR_BOOSTER_4: "Auxiliary Zero-Point Metabolism Nodule"
-ESC_BIO_REACTOR_BOOSTER_4_DESC: "An set of extra organs harvesting zero-point energy that produce additional power for the creature."
+ESC_BIO_REACTOR_BOOSTER_4_DESC: "A set of extra organs harvesting zero-point energy that produce additional power for the creature."
 
 ESC_REACTOR_BOOSTER_5: "Auxiliary Singularity Reactor"
 ESC_REACTOR_BOOSTER_5_DESC: "An additional singularity reactor that supplements the ship's power grid with additional power."
 
 ESC_BIO_REACTOR_BOOSTER_5: "Auxiliary Singularity Metabolism Nodule"
-ESC_BIO_REACTOR_BOOSTER_5_DESC: "An set of extra organs functioning alongside the primary singularity energy harvesters that produce additional power for the creature."
+ESC_BIO_REACTOR_BOOSTER_5_DESC: "A set of extra organs functioning alongside the primary singularity energy harvesters, producing additional power for the creature."
 
 ESC_STRUCTURAL_REINFORCEMENT: "Structural Reinforcement"
 ESC_STRUCTURAL_REINFORCEMENT_DESC: "Additional layers of armored materials to increase the strength of the ship's armor."
@@ -793,7 +793,7 @@ ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_2_DESC: "Sacks filled with potent restorative enz
 ############################################################
 
 ESC_ARCHAEO_ARMOR_2: "Tech-Synthetic Armor"
-ESC_ARCHAEO_ARMOR_2_DESC: "An advanced form of armor the combines the best of our own developments in material sciences and force-field generation with the technologies reverse-engineered from the precursor Pulse Armor."
+ESC_ARCHAEO_ARMOR_2_DESC: "An advanced form of armor that combines the latest developments in material sciences and force-field generation with technologies reverse-engineered from the precursor Pulse Armor."
 SMALL_ESC_ARCHAEO_ARMOR_2: "$esc_small$ $ESC_ARCHAEO_ARMOR_2$"
 SMALL_ESC_ARCHAEO_ARMOR_2_DESC: "$ESC_ARCHAEO_ARMOR_2_DESC$"
 MEDIUM_ESC_ARCHAEO_ARMOR_2: "$esc_medium$ $ESC_ARCHAEO_ARMOR_2$"
@@ -802,7 +802,7 @@ LARGE_ESC_ARCHAEO_ARMOR_2: "$esc_large$ $ESC_ARCHAEO_ARMOR_2$"
 LARGE_ESC_ARCHAEO_ARMOR_2_DESC: "$ESC_ARCHAEO_ARMOR_2_DESC$"
 
 ESC_BIO_ARCHAEO_ARMOR_2: "Tech-Synthetic Carapace"
-ESC_BIO_ARCHAEO_ARMOR_2_DESC: "An advanced form of creature carapace the combines the best results guided evolution with the technologies reverse-engineered from the precursor Pulse Armor."
+ESC_BIO_ARCHAEO_ARMOR_2_DESC: "An advanced form of creature carapace that combines the best results of guided evolution with technologies reverse-engineered from the precursor Pulse Armor."
 SMALL_ESC_BIO_ARCHAEO_ARMOR_2: "$esc_small$ $ESC_BIO_ARCHAEO_ARMOR_2$"
 SMALL_ESC_BIO_ARCHAEO_ARMOR_2_DESC: "$ESC_BIO_ARCHAEO_ARMOR_2_DESC$"
 MEDIUM_ESC_BIO_ARCHAEO_ARMOR_2: "$esc_medium$ $ESC_BIO_ARCHAEO_ARMOR_2$"
@@ -831,7 +831,7 @@ LARGE_ESC_ARCHAEO_ARMOR_3: "$esc_large$ $ESC_ARCHAEO_ARMOR_3$"
 LARGE_ESC_ARCHAEO_ARMOR_3_DESC: "$ESC_ARCHAEO_ARMOR_3_DESC$"
 
 ESC_BIO_ARCHAEO_ARMOR_3: "Evolved Tech-Synthetic Carapace"
-ESC_BIO_ARCHAEO_ARMOR_3_DESC: "A further refinement of $ESC_BIO_ARCHAEO_ARMOR_2$ that is even tougher and can produce even stronger shields. This might be the mightiest defenses a spaceborn creature may ever come to possess."
+ESC_BIO_ARCHAEO_ARMOR_3_DESC: "A further refinement of $ESC_BIO_ARCHAEO_ARMOR_2$ that is even tougher and produces even stronger shields."
 SMALL_ESC_BIO_ARCHAEO_ARMOR_3: "$esc_small$ $ESC_BIO_ARCHAEO_ARMOR_3$"
 SMALL_ESC_BIO_ARCHAEO_ARMOR_3_DESC: "$ESC_BIO_ARCHAEO_ARMOR_3_DESC$"
 MEDIUM_ESC_BIO_ARCHAEO_ARMOR_3: "$esc_medium$ $ESC_BIO_ARCHAEO_ARMOR_3$"
@@ -851,7 +851,7 @@ XL_ESC_ARCHAEO_ARMOR_CREATURE_3: "$esc_extra_large$ $ESC_BIO_ARCHAEO_ARMOR_3$"
 XL_ESC_ARCHAEO_ARMOR_CREATURE_3_DESC: "$ESC_BIO_ARCHAEO_ARMOR_3_DESC$"
 
 ESC_ARCHAEO_SHIELDS_2: "Tech-Synthetic Shields"
-ESC_ARCHAEO_SHIELDS_2_DESC: "A special shielding generator developed from the precursor Suspension Fields with the addition of our own knowledge about force fields. It can withstand great amounts of damage and even resist attacks that would just go through normal shields."
+ESC_ARCHAEO_SHIELDS_2_DESC: "A special shielding generator developed from precursor Suspension Field technology, incorporating advances in force-field research. It can withstand great amounts of damage and even resist attacks that would pass through normal shields."
 SMALL_ESC_ARCHAEO_SHIELDS_2: "$esc_small$ $ESC_ARCHAEO_SHIELDS_2$"
 SMALL_ESC_ARCHAEO_SHIELDS_2_DESC: "$ESC_ARCHAEO_SHIELDS_2_DESC$"
 MEDIUM_ESC_ARCHAEO_SHIELDS_2: "$esc_medium$ $ESC_ARCHAEO_SHIELDS_2$"
@@ -889,7 +889,7 @@ LARGE_ESC_ARCHAEO_SHIELDS_3: "$esc_large$ $ESC_ARCHAEO_SHIELDS_3$"
 LARGE_ESC_ARCHAEO_SHIELDS_3_DESC: "$ESC_ARCHAEO_SHIELDS_3_DESC$"
 
 ESC_BIO_ARCHAEO_SHIELDS_3: "Advanced Tech-Synthetic Suspension Field Tissue"
-ESC_BIO_ARCHAEO_SHIELDS_3_DESC: "A further refinement of the $ESC_BIO_ARCHAEO_SHIELDS_2$ technology that improves the strength of the generated field by utilizing specialized patterns of ancient technology nodules within the tissue and interwoven energy channeling paths to amplify the suspension fields beyond their normal limits."
+ESC_BIO_ARCHAEO_SHIELDS_3_DESC: "A further refinement of $ESC_BIO_ARCHAEO_SHIELDS_2$, utilizing optimized nodule arrangements and interwoven energy channels to amplify suspension fields beyond their normal limits."
 SMALL_ESC_BIO_ARCHAEO_SHIELDS_3: "$esc_small$ $ESC_BIO_ARCHAEO_SHIELDS_3$"
 SMALL_ESC_BIO_ARCHAEO_SHIELDS_3_DESC: "$ESC_BIO_ARCHAEO_SHIELDS_3_DESC$"
 MEDIUM_ESC_BIO_ARCHAEO_SHIELDS_3: "$esc_medium$ $ESC_BIO_ARCHAEO_SHIELDS_3$"

@@ -28,7 +28,7 @@ LARGE_ESC_BIO_CANNON_2_DESC: "$ESC_BIO_CANNON_2_DESC$"
 
 # Acid Spitter
 ESC_BIO_CANNON_3: "Acid Spitter"
-ESC_BIO_CANNON_3_DESC: "Acid Spitters are the new breed of Bile Spitters that produces an exceptionally-strong acid that can melt even through strongest metals."
+ESC_BIO_CANNON_3_DESC: "Acid Spitters are a new breed of Bile Spitters that produce an exceptionally strong acid capable of melting through even the strongest metals."
 SMALL_ESC_BIO_CANNON_3: "$esc_small$ $ESC_BIO_CANNON_3$"
 SMALL_ESC_BIO_CANNON_3_DESC: "$ESC_BIO_CANNON_3_DESC$"
 MEDIUM_ESC_BIO_CANNON_3: "$esc_medium$ $ESC_BIO_CANNON_3$"
@@ -38,7 +38,7 @@ LARGE_ESC_BIO_CANNON_3_DESC: "$ESC_BIO_CANNON_3_DESC$"
 
 # Acid Erucator
 ESC_BIO_CANNON_4: "Acid Erucator"
-ESC_BIO_CANNON_4_DESC: "With improved glands and muscle structure, this Acid Spitter can produce blob of strong acid and spit them with a force rivaling that of a powerful cannon."
+ESC_BIO_CANNON_4_DESC: "With improved glands and muscle structure, this Acid Spitter can produce blobs of strong acid and spit them with a force rivaling that of a powerful cannon."
 SMALL_ESC_BIO_CANNON_4: "$esc_small$ $ESC_BIO_CANNON_4$"
 SMALL_ESC_BIO_CANNON_4_DESC: "$ESC_BIO_CANNON_4_DESC$"
 MEDIUM_ESC_BIO_CANNON_4: "$esc_medium$ $ESC_BIO_CANNON_4$"
@@ -60,7 +60,7 @@ ESC_BIO_MISSILE_3_DESC: "These Acid Blob Bomb spitters are the pinnacle of the s
 
 # Acid Blob Barrage
 ESC_BIO_X_MISSILE_1: "Acid Blob Barrage"
-ESC_BIO_X_MISSILE_1_DESC: "This supersized organism created from the Acid Blob Bomb spitter can produce and fire multiple blobs of acidic bile in quick succession. Because of its large size, it can be used only by the biggest ships, though."
+ESC_BIO_X_MISSILE_1_DESC: "This supersized organism created from the Acid Blob Bomb spitter can produce and fire multiple blobs of acidic bile in quick succession. Its large size restricts it to the biggest ships."
 
 # Devouring Acid Blob Barrage
 ESC_BIO_X_MISSILE_2: "Devouring Acid Blob Barrage"
@@ -68,7 +68,7 @@ ESC_BIO_X_MISSILE_2_DESC: "A mutated strain of the Acid Blob Barrage spitter tha
 
 # Acid Blob Storm
 ESC_BIO_X_MISSILE_3_TITAN: "Acid Blob Storm"
-ESC_BIO_X_MISSILE_3_TITAN_DESC: "This gargantuan creature developed from the Acid Blob Barrage spitter is the most powerful bile spitter our scientists were able to create. Its capacity for destruction easily rivals that of an extremely-large conventional cannon."
+ESC_BIO_X_MISSILE_3_TITAN_DESC: "This gargantuan creature developed from the Acid Blob Barrage spitter is the most powerful bile spitter strain ever created. Its capacity for destruction easily rivals that of an extremely large conventional cannon."
 ESC_BIO_X_MISSILE_3_JUGGERNAUT: "$ESC_BIO_X_MISSILE_3_TITAN$ ($juggernaut$)"
 ESC_BIO_X_MISSILE_3_JUGGERNAUT_DESC: "$ESC_BIO_X_MISSILE_3_TITAN_DESC$"
 
@@ -220,7 +220,7 @@ ESC_CRYSTAL_LANCE_1_DESC: "A spinal-mounted cannon firing crystalline shards wit
 
 # Crystal Javelin Cannon
 ESC_CRYSTAL_LANCE_2: "Crystal Javelin Cannon"
-ESC_CRYSTAL_LANCE_2_DESC: "A supersized version of the Crystal Spear Cannon designed to be used as the main weapon on our warships. It can deliver tremendous amounts of damage with every shot."
+ESC_CRYSTAL_LANCE_2_DESC: "A supersized version of the Crystal Spear Cannon designed to serve as a main weapon on capital warships, delivering tremendous damage with every shot."
 
 # Crystal Lance Cannon
 ESC_CRYSTAL_LANCE_3: "Crystal Lance Cannon"
@@ -302,7 +302,7 @@ XL_ESC_CRYSTAL_CANNON_CREATURE_5_DESC: "$ESC_CRYSTAL_CANNON_5_DESC$"
 
 # Gravitation Anomaly Projector
 ESC_GRAVITY_CANNON_1: "Gravitation Anomaly Projector"
-ESC_GRAVITY_CANNON_1_DESC: "This weapon generates unstable gravitation anomalies in order to literally tear its target apart with uneven and randomly changing gravitic forces."
+ESC_GRAVITY_CANNON_1_DESC: "This weapon generates unstable gravitation anomalies to tear its target apart with uneven, randomly changing gravitic forces."
 SMALL_ESC_GRAVITY_CANNON_1: "$esc_small$ $ESC_GRAVITY_CANNON_1$"
 SMALL_ESC_GRAVITY_CANNON_1_DESC: "$ESC_GRAVITY_CANNON_1_DESC$"
 MEDIUM_ESC_GRAVITY_CANNON_1: "$esc_medium$ $ESC_GRAVITY_CANNON_1$"
@@ -311,7 +311,7 @@ LARGE_ESC_GRAVITY_CANNON_1: "$esc_large$ $ESC_GRAVITY_CANNON_1$"
 LARGE_ESC_GRAVITY_CANNON_1_DESC: "$ESC_GRAVITY_CANNON_1_DESC$"
 
 ESC_BIO_GRAVITY_CANNON_1: "$ESC_GRAVITY_CANNON_1$"
-ESC_BIO_GRAVITY_CANNON_1_DESC: "This unusual biological weapon generates unstable gravitation anomalies in order to literally tear its target apart with uneven and randomly changing gravitic forces."
+ESC_BIO_GRAVITY_CANNON_1_DESC: "This unusual biological weapon generates unstable gravitation anomalies to tear its target apart with uneven, randomly changing gravitic forces."
 SMALL_ESC_BIO_GRAVITY_CANNON_1: "$esc_small$ $ESC_GRAVITY_CANNON_1$"
 SMALL_ESC_BIO_GRAVITY_CANNON_1_DESC: "$ESC_BIO_GRAVITY_CANNON_1_DESC$"
 MEDIUM_ESC_BIO_GRAVITY_CANNON_1: "$esc_medium$ $ESC_GRAVITY_CANNON_1$"
@@ -405,10 +405,10 @@ ESC_BIO_GRAVITY_LANCE_1_DESC: "$ESC_GRAVITY_LANCE_1_DESC$"
 
 # Focused Super-Graviton Cannon
 ESC_GRAVITY_LANCE_2: "Focused Super-Graviton Cannon"
-ESC_GRAVITY_LANCE_2_DESC: "An upgraded and refined version of the Super-Graviton Cannon that is even more powerful. Very few things can last against its attacks."
+ESC_GRAVITY_LANCE_2_DESC: "An upgraded and refined version of the Super-Graviton Cannon with significantly increased destructive power."
 
 ESC_BIO_GRAVITY_LANCE_2: "$ESC_GRAVITY_LANCE_2$"
-ESC_BIO_GRAVITY_LANCE_2_DESC: "An evolution of the biological Super-Graviton Cannon with even greater destructive power and more focused beam for increased precision. Very few things can last against its attacks."
+ESC_BIO_GRAVITY_LANCE_2_DESC: "An evolution of the biological Super-Graviton Cannon with even greater destructive power and a more focused beam for increased precision."
 
 # Titanic Super-Graviton Cannon
 ESC_GRAVITY_LANCE_TITANIC: "Titanic Super-Graviton Cannon"
@@ -417,7 +417,7 @@ ESC_GRAVITY_LANCE_JUGGERNAUT: "$ESC_GRAVITY_LANCE_TITANIC$ ($juggernaut$)"
 ESC_GRAVITY_LANCE_JUGGERNAUT_DESC: "$ESC_GRAVITY_LANCE_TITANIC_DESC$"
 
 ESC_BIO_GRAVITY_LANCE_TITANIC: "$ESC_GRAVITY_LANCE_TITANIC$"
-ESC_BIO_GRAVITY_LANCE_TITANIC_DESC: "A supersized version of the biological Super-Graviton Cannon that is capable of annihilating all in its firing path. Only the largest and mightiest warbeast are capable of carrying this incredible weapon."
+ESC_BIO_GRAVITY_LANCE_TITANIC_DESC: "A supersized version of the biological Super-Graviton Cannon capable of annihilating all in its firing path. Only the largest warbeasts can carry a weapon of this scale."
 ESC_BIO_GRAVITY_LANCE_JUGGERNAUT: "$ESC_GRAVITY_LANCE_TITANIC$ ($juggernaut$)"
 ESC_BIO_GRAVITY_LANCE_JUGGERNAUT_DESC: "$ESC_BIO_GRAVITY_LANCE_TITANIC_DESC$"
 
@@ -426,7 +426,7 @@ ESC_GRAVITY_BOMBERS: "Singularity Bombers"
 ESC_GRAVITY_BOMBERS_DESC: "These specialized strike crafts are armed with spatial distortion warhead and will quickly tear apart anything they are ordered to attack."
 
 ESC_BIO_GRAVITY_BOMBERS: "Singularity Warbeasts"
-ESC_BIO_GRAVITY_BOMBERS_DESC: "These attack warbeasts possess biological Spatial Distortion weapons and will will quickly tear apart anything they are ordered to attack."
+ESC_BIO_GRAVITY_BOMBERS_DESC: "These attack warbeasts possess biological Spatial Distortion weapons and will quickly tear apart anything they are ordered to attack."
 
 ESC_GRAVITY_BOMBERS_CREATURE: "$ESC_BIO_GRAVITY_BOMBERS$"
 ESC_GRAVITY_BOMBERS_CREATURE_DESC: "$ESC_BIO_GRAVITY_BOMBERS_DESC$"
@@ -493,7 +493,7 @@ XL_ESC_ENIGMATIC_CANNON_CREATURE_DESC: "$ESC_ENIGMATIC_CANNON_DESC$"
 
 # Enigmatic Energy Lance
 ESC_ENIGMATIC_LANCE: "Enigmatic Energy Lance"
-ESC_ENIGMATIC_LANCE_DESC: "This powerful beam weapon unleashes fury of enigmatic energies upon our enemies."
+ESC_ENIGMATIC_LANCE_DESC: "This powerful beam weapon unleashes a concentrated fury of enigmatic energies against its targets."
 
 ESC_BIO_ENIGMATIC_LANCE: "$ESC_ENIGMATIC_LANCE$"
 ESC_BIO_ENIGMATIC_LANCE_DESC: "$ESC_ENIGMATIC_LANCE_DESC$"
@@ -522,7 +522,7 @@ ESC_BIO_ENIGMATIC_LANCE_JUGGERNAUT_DESC: "$ESC_ENIGMATIC_LANCE_DESC$"
 
 # Extradimensional Spike
 ESC_EXTRADIMENSIONAL_PD: "Extradimensional Spike"
-ESC_EXTRADIMENSIONAL_PD_DESC: "This weapon temporarily opens extradimensional portals, allowing otherworldly creature to strike our enemies with great power and precision. It can even target small things like strike crafts or even missiles."
+ESC_EXTRADIMENSIONAL_PD_DESC: "This weapon temporarily opens extradimensional portals, allowing otherworldly creatures to strike targets with great power and precision. It can engage small targets such as strike craft and missiles."
 
 ESC_EXTRADIMENSIONAL_PD_CREATURE: "$ESC_EXTRADIMENSIONAL_PD$"
 ESC_EXTRADIMENSIONAL_PD_CREATURE_DESC: "$ESC_EXTRADIMENSIONAL_PD_DESC$"
@@ -537,7 +537,7 @@ XL_ESC_EXTRADIMENSIONAL_PD_CREATURE_DESC: "$ESC_EXTRADIMENSIONAL_PD_DESC$"
 
 # Advanced Energy Syphon
 ESC_SPACE_WHALE_WEAPON_2: "Advanced Energy Syphon"
-ESC_SPACE_WHALE_WEAPON_2_DESC: "An improved version of Energy Syphon weapons with greater power and improved ability to steal energy from targets and add it to that of our own ships."
+ESC_SPACE_WHALE_WEAPON_2_DESC: "An improved version of Energy Syphon weapons with greater power and an enhanced ability to drain energy from targets and transfer it to the equipped ship."
 SMALL_ESC_SPACE_WHALE_WEAPON_2: "$esc_small$ $ESC_SPACE_WHALE_WEAPON_2$"
 SMALL_ESC_SPACE_WHALE_WEAPON_2_DESC: "$ESC_SPACE_WHALE_WEAPON_2_DESC$"
 MEDIUM_ESC_SPACE_WHALE_WEAPON_2: "$esc_medium$ $ESC_SPACE_WHALE_WEAPON_2$"
@@ -546,7 +546,7 @@ LARGE_ESC_SPACE_WHALE_WEAPON_2: "$esc_large$ $ESC_SPACE_WHALE_WEAPON_2$"
 LARGE_ESC_SPACE_WHALE_WEAPON_2_DESC: "$ESC_SPACE_WHALE_WEAPON_2_DESC$"
 
 ESC_BIO_SPACE_WHALE_WEAPON_2: "Evolved Energy Syphon"
-ESC_BIO_SPACE_WHALE_WEAPON_2_DESC: "An evolution of Energy Syphon weapons with greater power and improved ability to steal energy from targets and add it to that of our own ships."
+ESC_BIO_SPACE_WHALE_WEAPON_2_DESC: "An evolution of Energy Syphon weapons with greater power and an enhanced ability to drain energy from targets and transfer it to the equipped ship."
 SMALL_ESC_BIO_SPACE_WHALE_WEAPON_2: "$esc_small$ $ESC_BIO_SPACE_WHALE_WEAPON_2$"
 SMALL_ESC_BIO_SPACE_WHALE_WEAPON_2_DESC: "$ESC_BIO_SPACE_WHALE_WEAPON_2_DESC$"
 MEDIUM_ESC_BIO_SPACE_WHALE_WEAPON_2: "$esc_medium$ $ESC_BIO_SPACE_WHALE_WEAPON_2$"
@@ -567,7 +567,7 @@ XL_ESC_SPACE_WHALE_WEAPON_CREATURE_2_DESC: "$ESC_BIO_SPACE_WHALE_WEAPON_2_DESC$"
 
 # Paradox Energy Syphon
 ESC_SPACE_WHALE_WEAPON_3: "Paradox Energy Syphon"
-ESC_SPACE_WHALE_WEAPON_3_DESC: "A new iteration of Energy Syphon weapons with unprecedent power and precision and an unmatched energy draining ability."
+ESC_SPACE_WHALE_WEAPON_3_DESC: "A new iteration of Energy Syphon weapons with unprecedented power, precision, and energy-draining capability."
 SMALL_ESC_SPACE_WHALE_WEAPON_3: "$esc_small$ $ESC_SPACE_WHALE_WEAPON_3$"
 SMALL_ESC_SPACE_WHALE_WEAPON_3_DESC: "$ESC_SPACE_WHALE_WEAPON_3_DESC$"
 MEDIUM_ESC_SPACE_WHALE_WEAPON_3: "$esc_medium$ $ESC_SPACE_WHALE_WEAPON_3$"
@@ -597,7 +597,7 @@ XL_ESC_SPACE_WHALE_WEAPON_CREATURE_3_DESC: "$ESC_SPACE_WHALE_WEAPON_3_DESC$"
 
 # Tiyanki Beam Cannon
 ESC_TIYANKI_CANNON: "Tiyanki Beam Cannon"
-ESC_TIYANKI_CANNON_DESC: "This weapon mimic the devastatingly powerful beam attacks of the Tiyanki Matriarch."
+ESC_TIYANKI_CANNON_DESC: "This weapon mimics the devastatingly powerful beam attacks of the Tiyanki Matriarch."
 
 ESC_BIO_TIYANKI_CANNON: "$ESC_TIYANKI_CANNON$"
 ESC_BIO_TIYANKI_CANNON_DESC: "$ESC_TIYANKI_CANNON_DESC$"
@@ -626,7 +626,7 @@ ESC_BIO_TIYANKI_CANNON_JUGGERNAUT_DESC: "$ESC_TIYANKI_CANNON_DESC$"
 
 # Junk Mine Launcher
 ESC_JUNK_MINE_LAUNCHER: "Junk Mine Launcher"
-ESC_JUNK_MINE_LAUNCHER_DESC: "These self-propelled mines are similar to one of the weapons utilized by the Scrapper Bot. One shouldn't be deceived by their unrefined appearance and simple components into thinking they are anything but a devastating weapon."
+ESC_JUNK_MINE_LAUNCHER_DESC: "These self-propelled mines are based on a weapon utilized by the Scrapper Bot. Their unrefined appearance belies their devastating effectiveness."
 
 # Voidspawn Missile
 ESC_VOIDSPAWN_MISSILE: "Voidspawn Missile"
@@ -664,7 +664,7 @@ LARGE_ESC_NANITE_CANNON_1: "$esc_large$ $ESC_NANITE_CANNON_1$"
 LARGE_ESC_NANITE_CANNON_1_DESC: "$ESC_NANITE_CANNON_1_DESC$"
 
 ESC_BIO_NANITE_CANNON_1: "Nanite Bio-Cannon"
-ESC_BIO_NANITE_CANNON_1_DESC: "This cannon is a symbiotic construct that incorporates a large amount of nanites into an otherwise biological projectile launcher. Nanites are used both for 'maintenance' and as 'ammunition' to aggressively disassemble the unfortunate target for easier consumption by the warbeast."
+ESC_BIO_NANITE_CANNON_1_DESC: "This symbiotic construct integrates nanites into a biological projectile launcher, using them both for maintenance and as ammunition to aggressively disassemble targets for easier consumption by the warbeast."
 SMALL_ESC_BIO_NANITE_CANNON_1: "$esc_small$ $ESC_BIO_NANITE_CANNON_1$"
 SMALL_ESC_BIO_NANITE_CANNON_1_DESC: "$ESC_BIO_NANITE_CANNON_1_DESC$"
 MEDIUM_ESC_BIO_NANITE_CANNON_1: "$esc_medium$ $ESC_BIO_NANITE_CANNON_1$"
@@ -685,7 +685,7 @@ XL_ESC_NANITE_CANNON_CREATURE_1_DESC: "$ESC_BIO_NANITE_CANNON_1_DESC$"
 
 # Improved Nanite Cannon
 ESC_NANITE_CANNON_2: "Improved Nanite Cannon"
-ESC_NANITE_CANNON_2_DESC: "An upgraded Nanite Cannon with a better canister desing and more aggressive nanites to fuel our enemies' destruction."
+ESC_NANITE_CANNON_2_DESC: "An upgraded Nanite Cannon with an improved canister design and more aggressive nanite disassembly protocols."
 SMALL_ESC_NANITE_CANNON_2: "$esc_small$ $ESC_NANITE_CANNON_2$"
 SMALL_ESC_NANITE_CANNON_2_DESC: "$ESC_NANITE_CANNON_2_DESC$"
 MEDIUM_ESC_NANITE_CANNON_2: "$esc_medium$ $ESC_NANITE_CANNON_2$"
@@ -694,7 +694,7 @@ LARGE_ESC_NANITE_CANNON_2: "$esc_large$ $ESC_NANITE_CANNON_2$"
 LARGE_ESC_NANITE_CANNON_2_DESC: "$ESC_NANITE_CANNON_2_DESC$"
 
 ESC_BIO_NANITE_CANNON_2: "Evolved Nanite Bio-Cannon"
-ESC_BIO_NANITE_CANNON_2_DESC: "An improved version of the Nanite Bio-Cannon with tighter integration of nanites into the cannon's body and increased aggressiveness of nanites themselves to fuel the destruction of our enemies."
+ESC_BIO_NANITE_CANNON_2_DESC: "An improved version of the Nanite Bio-Cannon with tighter integration of nanites into the cannon's body and more aggressive disassembly protocols."
 SMALL_ESC_BIO_NANITE_CANNON_2: "$esc_small$ $ESC_BIO_NANITE_CANNON_2$"
 SMALL_ESC_BIO_NANITE_CANNON_2_DESC: "$ESC_BIO_NANITE_CANNON_2_DESC$"
 MEDIUM_ESC_BIO_NANITE_CANNON_2: "$esc_medium$ $ESC_BIO_NANITE_CANNON_2$"
@@ -715,7 +715,7 @@ XL_ESC_NANITE_CANNON_CREATURE_2_DESC: "$ESC_BIO_NANITE_CANNON_2_DESC$"
 
 # Nanite Reconstructor
 ESC_NANITE_RECONSTRUCTOR: "Nanite Reconstruction Beam"
-ESC_NANITE_RECONSTRUCTOR_DESC: "An extremely specialized weapon that utilizes specialized nanites to create a temporary bridge between two ships, transporting bits of matter from one to another. This allows it to do local repairs while dealing damage to an enemy ship."
+ESC_NANITE_RECONSTRUCTOR_DESC: "This weapon uses nanites to create a temporary matter bridge between two ships, transporting material from the target to allow local repairs while simultaneously dealing damage."
 SMALL_ESC_NANITE_RECONSTRUCTOR: "$esc_small$ $ESC_NANITE_RECONSTRUCTOR$"
 SMALL_ESC_NANITE_RECONSTRUCTOR_DESC: "$ESC_NANITE_RECONSTRUCTOR_DESC$"
 MEDIUM_ESC_NANITE_RECONSTRUCTOR: "$esc_medium$ $ESC_NANITE_RECONSTRUCTOR$"
@@ -788,19 +788,19 @@ ESC_BIO_NANITE_XSLOT_1_DESC: "This large-scale biological missile launcher can q
 
 # Nanite Warhead Multi-Missile Launcher
 ESC_NANITE_XSLOT_2: "Nanite Warhead Multi-Missile Launcher"
-ESC_NANITE_XSLOT_2_DESC: "An upgraded version of Nanite Warhead Missile Launcher with better missiles and an improved reloading system that allows it rain even more nanite missiles upon our enemies"
+ESC_NANITE_XSLOT_2_DESC: "An upgraded version of the Nanite Warhead Missile Launcher with better missiles and an improved reloading system that allows it to rain even more nanite missiles upon targets."
 
 ESC_BIO_NANITE_XSLOT_2: "$ESC_NANITE_XSLOT_2$"
-ESC_BIO_NANITE_XSLOT_2_DESC: "An evolved version of Nanite Warhead Missile Launcher with the more powerful strain of bio-missiles and faster projectile regeneration that allows it rain even more nanite bio-missiles upon our enemies"
+ESC_BIO_NANITE_XSLOT_2_DESC: "An evolved version of the Nanite Warhead Missile Launcher with a more powerful strain of bio-missiles and faster projectile regeneration that allows it to rain even more nanite bio-missiles upon targets."
 
 # Nanite Warhead Rocket Artillery
 ESC_NANITE_TSLOT_TITANIC: "Nanite Warhead Rocket Artillery"
-ESC_NANITE_TSLOT_TITANIC_DESC: "A truly gigantic battery of missile launchers equipped with the latest model of nanite warhead missiles. Nothing can survive a barrage from this terrifying weapon."
+ESC_NANITE_TSLOT_TITANIC_DESC: "A gigantic battery of missile launchers equipped with the latest nanite warhead missiles, capable of delivering overwhelming firepower against any target."
 ESC_NANITE_TSLOT_JUGGERNAUT: "$ESC_NANITE_TSLOT_TITANIC$ ($juggernaut$)"
 ESC_NANITE_TSLOT_JUGGERNAUT_DESC: "$ESC_NANITE_TSLOT_TITANIC_DESC$"
 
 ESC_BIO_NANITE_TSLOT_TITANIC: "Nanite Warhead Bio-Missile Artillery"
-ESC_BIO_NANITE_TSLOT_TITANIC_DESC: "A truly gigantic battery of biologicl missile launchers equipped with the most potent nanite warhead bio-missiles. Nothing can survive a barrage from this terrifying weapon."
+ESC_BIO_NANITE_TSLOT_TITANIC_DESC: "A gigantic battery of biological missile launchers equipped with the most potent nanite warhead bio-missiles, capable of delivering overwhelming firepower against any target."
 ESC_BIO_NANITE_TSLOT_JUGGERNAUT: "$ESC_BIO_NANITE_TSLOT_TITANIC$ ($juggernaut$)"
 ESC_BIO_NANITE_TSLOT_JUGGERNAUT_DESC: "$ESC_BIO_NANITE_TSLOT_TITANIC_DESC$"
 
@@ -809,7 +809,7 @@ ESC_NANITE_BOMBERS: "Nanite Bombers"
 ESC_NANITE_BOMBERS_DESC: "These specialized strikecrafts are carrying canisters with nanites programmed to aggressively disassemble any unfortunate target they land on."
 
 ESC_BIO_NANITE_BOMBERS: "Nanite-Augmented Bomber Amoeba"
-ESC_BIO_NANITE_BOMBERS_DESC: "These amoebas are augmented with large amounts of nanites that are used as a weapons and can do terrifying amounts of damage to our enemies."
+ESC_BIO_NANITE_BOMBERS_DESC: "These amoebas are augmented with large amounts of nanites used as weapons, capable of inflicting severe damage to any target they engage."
 
 ESC_NANITE_BOMBERS_CREATURE: "$ESC_BIO_NANITE_BOMBERS$"
 ESC_NANITE_BOMBERS_CREATURE_DESC: "$ESC_BIO_NANITE_BOMBERS_DESC$"
@@ -870,7 +870,7 @@ XL_ESC_PSIONIC_CANNON_CREATURE_2_DESC: "$ESC_PSIONIC_CANNON_CREATURE_2_DESC$"
 
 # Shroud Strike
 ESC_PSIONIC_STRIKE_1: "Shroud Strike"
-ESC_PSIONIC_STRIKE_1_DESC: "Not quite a weapon in and off itself, this device is a materialized pact between us and a lesser denizen of the Shroud, through which we can command it to attack our emenies."
+ESC_PSIONIC_STRIKE_1_DESC: "Not quite a weapon in and of itself, this device is a materialized pact with a lesser denizen of the Shroud, through which it can be commanded to attack targets."
 SMALL_ESC_PSIONIC_STRIKE_1: "$esc_small$ $ESC_PSIONIC_STRIKE_1$"
 SMALL_ESC_PSIONIC_STRIKE_1_DESC: "$ESC_PSIONIC_STRIKE_1_DESC$"
 MEDIUM_ESC_PSIONIC_STRIKE_1: "$esc_medium$ $ESC_PSIONIC_STRIKE_1$"
@@ -879,7 +879,7 @@ LARGE_ESC_PSIONIC_STRIKE_1: "$esc_large$ $ESC_PSIONIC_STRIKE_1$"
 LARGE_ESC_PSIONIC_STRIKE_1_DESC: "$ESC_PSIONIC_STRIKE_1_DESC$"
 
 ESC_PSIONIC_STRIKE_CREATURE_1: "$ESC_PSIONIC_STRIKE_1$"
-ESC_PSIONIC_STRIKE_CREATURE_1_DESC: "Not quite a weapon in and off itself, this brain mutation is a materialized pact between us and a lesser denizen of the Shroud, through which we can command it to attack our emenies."
+ESC_PSIONIC_STRIKE_CREATURE_1_DESC: "Not quite a weapon in and of itself, this brain mutation is a materialized pact with a lesser denizen of the Shroud, through which it can be commanded to attack targets."
 SMALL_ESC_PSIONIC_STRIKE_CREATURE_1: "$esc_small$ $ESC_PSIONIC_STRIKE_1$"
 SMALL_ESC_PSIONIC_STRIKE_CREATURE_1_DESC: "$ESC_PSIONIC_STRIKE_CREATURE_1_DESC$"
 MEDIUM_ESC_PSIONIC_STRIKE_CREATURE_1: "$esc_medium$ $ESC_PSIONIC_STRIKE_1$"
@@ -891,7 +891,7 @@ XL_ESC_PSIONIC_STRIKE_CREATURE_1_DESC: "$ESC_PSIONIC_STRIKE_CREATURE_1_DESC$"
 
 # Shroud Wrath
 ESC_PSIONIC_STRIKE_2: "Shroud Wrath"
-ESC_PSIONIC_STRIKE_2_DESC: "This improved device allows maintaining of pacts with stronger denizens of the Shroud and grealy increased our ability to command them."
+ESC_PSIONIC_STRIKE_2_DESC: "This improved device enables pacts with stronger denizens of the Shroud and greatly increases the ability to command them."
 SMALL_ESC_PSIONIC_STRIKE_2: "$esc_small$ $ESC_PSIONIC_STRIKE_2$"
 SMALL_ESC_PSIONIC_STRIKE_2_DESC: "$ESC_PSIONIC_STRIKE_2_DESC$"
 MEDIUM_ESC_PSIONIC_STRIKE_2: "$esc_medium$ $ESC_PSIONIC_STRIKE_2$"
@@ -900,7 +900,7 @@ LARGE_ESC_PSIONIC_STRIKE_2: "$esc_large$ $ESC_PSIONIC_STRIKE_2$"
 LARGE_ESC_PSIONIC_STRIKE_2_DESC: "$ESC_PSIONIC_STRIKE_2_DESC$"
 
 ESC_PSIONIC_STRIKE_CREATURE_2: "$ESC_PSIONIC_STRIKE_2$"
-ESC_PSIONIC_STRIKE_CREATURE_2_DESC: "This stronger brain mutation allows maintaining of pacts with stronger denizens of the Shroud and grealy increased our ability to command them."
+ESC_PSIONIC_STRIKE_CREATURE_2_DESC: "This stronger brain mutation enables pacts with more powerful denizens of the Shroud and greatly increases the ability to command them."
 SMALL_ESC_PSIONIC_STRIKE_CREATURE_2: "$esc_small$ $ESC_PSIONIC_STRIKE_2$"
 SMALL_ESC_PSIONIC_STRIKE_CREATURE_2_DESC: "$ESC_PSIONIC_STRIKE_CREATURE_2_DESC$"
 MEDIUM_ESC_PSIONIC_STRIKE_CREATURE_2: "$esc_medium$ $ESC_PSIONIC_STRIKE_2$"
@@ -929,7 +929,7 @@ XL_ESC_PSIONIC_TORPEDO_CREATURE_1_DESC: "$ESC_BIO_PSIONIC_TORPEDO_1_DESC$"
 
 # Improved Psi-Blast Torpedo
 ESC_PSIONIC_TORPEDO_2: "Improved Psi-Blast Torpedo"
-ESC_PSIONIC_TORPEDO_2_DESC: "An improved version of the Psi-Blast Torpedo with the bigger 'payload' for an even greater amount of mayham and destruction."
+ESC_PSIONIC_TORPEDO_2_DESC: "An improved version of the Psi-Blast Torpedo with a larger psionic payload for even greater destructive yield."
 ESC_BIO_PSIONIC_TORPEDO_2: "$ESC_PSIONIC_TORPEDO_2$"
 ESC_BIO_PSIONIC_TORPEDO_2_DESC: "A heavily-mutated pod containg vast amounts of concentrated psionic energies that will obliterate any enemy unfortunate enough to come in contact with it."
 
@@ -954,13 +954,13 @@ ESC_PSIONIC_LANCE_2_DESC: "New, bigger and more precise version of Psionic Lance
 
 # Void Ray
 ESC_PSIONIC_LANCE_TITANIC: "Void Ray"
-ESC_PSIONIC_LANCE_TITANIC_DESC: "A supersized Psionic Lance, meant for the biggest of our ships. Nothing can withstand the might of its psionic energies."
+ESC_PSIONIC_LANCE_TITANIC_DESC: "A supersized Psionic Lance designed for titanic-class ships, capable of overwhelming virtually any target with concentrated psionic energies."
 ESC_PSIONIC_LANCE_JUGGERNAUT: "$ESC_PSIONIC_LANCE_TITANIC$ ($juggernaut$)"
 ESC_PSIONIC_LANCE_JUGGERNAUT_DESC: "$ESC_PSIONIC_LANCE_TITANIC_DESC$"
 
 # Psionic Interceptors
 ESC_PSIONIC_INTERCEPTORS: "Psionic Interceptors"
-ESC_PSIONIC_INTERCEPTORS_DESC: "These specialized strike crafts fly a powerful psionic as a second crew member, allowing them to use a powerful psionic beam cannon."
+ESC_PSIONIC_INTERCEPTORS_DESC: "These specialized strike craft carry a psionic crew member, allowing them to deploy a powerful psionic beam cannon in combat."
 ESC_BIO_PSIONIC_INTERCEPTORS: "Psionically-augmented Amoeba"
 ESC_BIO_PSIONIC_INTERCEPTORS_DESC: "These selectively-bred amoeba are capable of wielding psionic energies as a weapon to attack its enemies."
 
@@ -981,7 +981,7 @@ ESC_PSIONIC_BLAST_AVATAR_DESC: "The primary weapon of the Psionic Avatar."
 
 # Psionic Catastrophe
 ESC_PSIONIC_SHOCKWAVE: "Psionic Catastrophe"
-ESC_PSIONIC_SHOCKWAVE_DESC: "A short-ranged but extremely powerful psionic shockwave that can take out any fool that came too close to our ships."
+ESC_PSIONIC_SHOCKWAVE_DESC: "A short-ranged but extremely powerful psionic shockwave that devastates any vessel that closes to point-blank range."
 
 # focused psionic disruptors
 ESC_PSIONIC_DISRUPTORS_2: "Focused Psionic Disruptors"
@@ -1011,7 +1011,7 @@ XL_ESC_PSIONIC_DISRUPTORS_CREATURE_2_DESC: "$ESC_PSIONIC_DISRUPTORS_2_DESC$"
 
 # shroud-empowered disruptors
 ESC_PSIONIC_DISRUPTORS_3: "Shroud-Empowered Disruptors"
-ESC_PSIONIC_DISRUPTORS_3_DESC: "Unlimited psionic energies from the Shroud flow into these disruptors, taking their power to previously-unsees leves. No enemy of ours will survive an encounted with such a mighty weapon."
+ESC_PSIONIC_DISRUPTORS_3_DESC: "Psionic energies channeled directly from the Shroud flow into these disruptors, elevating their power to previously unseen levels."
 SMALL_ESC_PSIONIC_DISRUPTORS_3: "$esc_small$ $ESC_PSIONIC_DISRUPTORS_3$"
 SMALL_ESC_PSIONIC_DISRUPTORS_3_DESC: "$ESC_PSIONIC_DISRUPTORS_3_DESC$"
 MEDIUM_ESC_PSIONIC_DISRUPTORS_3: "$esc_medium$ $ESC_PSIONIC_DISRUPTORS_3$"
@@ -1055,7 +1055,7 @@ XL_ESC_PSIONIC_LIGHTNING_CREATURE_2_DESC: "$ESC_PSIONIC_LIGHTNING_2_DESC$"
 
 # shroud lightning
 ESC_PSIONIC_LIGHTNING_3: "Shroud Lightning"
-ESC_PSIONIC_LIGHTNING_3_DESC: "This weapon discharges powerful bolts of psionic energies channeled straight from the Shroud, striking fear into the hearts of our enemies."
+ESC_PSIONIC_LIGHTNING_3_DESC: "This weapon discharges powerful bolts of psionic energy channeled directly from the Shroud."
 
 ESC_BIO_PSIONIC_LIGHTNING_3: "$ESC_PSIONIC_LIGHTNING_3$"
 ESC_BIO_PSIONIC_LIGHTNING_3_DESC: "$ESC_PSIONIC_LIGHTNING_3_DESC$"
@@ -1077,7 +1077,7 @@ XL_ESC_PSIONIC_LIGHTNING_CREATURE_3_DESC: "$ESC_PSIONIC_LIGHTNING_3_DESC$"
 
 # Tesla Coil
 ESC_TESLA_COIL_1: "Tesla Coil"
-ESC_TESLA_COIL_1_DESC: "As its name suggests, this weapon is a gigantic tesla coil that can strike our enemies with powerful blasts of electricity."
+ESC_TESLA_COIL_1_DESC: "A gigantic Tesla coil that strikes targets with powerful blasts of electricity."
 SMALL_ESC_TESLA_COIL_1: "$esc_small$ $ESC_TESLA_COIL_1$"
 SMALL_ESC_TESLA_COIL_1_DESC: "$ESC_TESLA_COIL_1_DESC$"
 MEDIUM_ESC_TESLA_COIL_1: "$esc_medium$ $ESC_TESLA_COIL_1$"
@@ -1107,7 +1107,7 @@ XL_ESC_TESLA_COIL_CREATURE_1_DESC: "$ESC_BIO_TESLA_COIL_1_DESC$"
 
 # Improved Tesla Coil
 ESC_TESLA_COIL_2: "Improved Tesla Coil"
-ESC_TESLA_COIL_2_DESC: "A more powerful version of the Tesla Coil weapon that can strike our enemies even deadlier blasts of electricity."
+ESC_TESLA_COIL_2_DESC: "A more powerful version of the Tesla Coil that strikes targets with even deadlier blasts of electricity."
 SMALL_ESC_TESLA_COIL_2: "$esc_small$ $ESC_TESLA_COIL_2$"
 SMALL_ESC_TESLA_COIL_2_DESC: "$ESC_TESLA_COIL_2_DESC$"
 MEDIUM_ESC_TESLA_COIL_2: "$esc_medium$ $ESC_TESLA_COIL_2$"
@@ -1137,10 +1137,10 @@ XL_ESC_TESLA_COIL_CREATURE_2_DESC: "$ESC_BIO_TESLA_COIL_2_DESC$"
 
 # Tesla Bomb
 ESC_TESLA_BOMB_1: "Tesla Bomb"
-ESC_TESLA_BOMB_1_DESC: "This specialized torpedo contains a supercharged superconducting ring in its warhead. And when this ring is destroyed by impact,it releases a devastating and deadly explosion of electric power."
+ESC_TESLA_BOMB_1_DESC: "This specialized torpedo contains a supercharged superconducting ring in its warhead. When this ring is destroyed by impact, it releases a devastating and deadly explosion of electric power."
 
 ESC_BIO_TESLA_BOMB_1: "Bio-electric Bomb"
-ESC_BIO_TESLA_BOMB_1_DESC: "A biological torpedo containing specialized conductive tissue that stores massive amounts or electricity, which can be released as a deadly explosion of electric power when coming in contact with a target."
+ESC_BIO_TESLA_BOMB_1_DESC: "A biological torpedo containing specialized conductive tissue that stores massive amounts of electricity, which can be released as a deadly explosion of electric power when coming in contact with a target."
 
 ESC_TESLA_BOMB_CREATURE_1: "$ESC_BIO_TESLA_BOMB_1$"
 ESC_TESLA_BOMB_CREATURE_1_DESC: "$ESC_BIO_TESLA_BOMB_1_DESC$"
@@ -1180,7 +1180,7 @@ ESC_BIO_TESLA_CANNON_1_DESC: "A supersized version of the Bio-electric Discharge
 
 # Improved Tesla Cannon
 ESC_TESLA_CANNON_2: "Improved Tesla Cannon"
-ESC_TESLA_CANNON_2_DESC: "This is an upgraded and improved version of the Tesla Cannon that can do even more damage with its deadly electric currents."
+ESC_TESLA_CANNON_2_DESC: "An upgraded version of the Tesla Cannon that delivers even greater damage with its deadly electric currents."
 
 ESC_BIO_TESLA_CANNON_2: "Evolved Bio-electric Cannon"
 ESC_BIO_TESLA_CANNON_2_DESC: "A further evolution of Bio-electric Cannon with even greater power output. It can do tremendous amounts of damage with its deadly bio-electric currents."
@@ -1192,7 +1192,7 @@ ESC_TESLA_CANNON_JUGGERNAUT: "$ESC_TESLA_CANNON_TITANIC$ ($juggernaut$)"
 ESC_TESLA_CANNON_JUGGERNAUT_DESC: "$ESC_TESLA_CANNON_TITANIC_DESC$"
 
 ESC_BIO_TESLA_CANNON_TITANIC: "Titanic Bio-electric Cannon"
-ESC_BIO_TESLA_CANNON_TITANIC_DESC: "A particular strain of Bio-electric Canons that underwent further evolution towards increased power at the cost of gigantism. While it might be too big for most ships, there are still some giant that could make use of this weapons and its unbelievable power."
+ESC_BIO_TESLA_CANNON_TITANIC_DESC: "A strain of Bio-electric Cannons that evolved towards extreme power output at the cost of immense size. Only titanic-class vessels can mount a weapon of this scale."
 ESC_BIO_TESLA_CANNON_JUGGERNAUT: "$ESC_BIO_TESLA_CANNON_TITANIC$ ($juggernaut$)"
 ESC_BIO_TESLA_CANNON_JUGGERNAUT_DESC: "$ESC_BIO_TESLA_CANNON_TITANIC_DESC$"
 
@@ -1201,7 +1201,7 @@ ESC_TESLA_INTERDICTOR: "Tesla Interdictors"
 ESC_TESLA_INTERDICTOR_DESC: "These strike crafts carry small Tesla Cannons and will quickly tear any enemy apart with deadly blasts of electricity."
 
 ESC_BIO_TESLA_INTERDICTOR: "Bio-electric Warbeasts"
-ESC_BIO_TESLA_INTERDICTOR_DESC: "These unusual attack creatures are capable of  generating powerful bio-electric currents that can be discharged at the enemies as deadly blasts."
+ESC_BIO_TESLA_INTERDICTOR_DESC: "These unusual attack creatures are capable of generating powerful bio-electric currents that can be discharged at the enemies as deadly blasts."
 
 ESC_TESLA_INTERDICTOR_CREATURE: "$ESC_BIO_TESLA_INTERDICTOR$"
 ESC_TESLA_INTERDICTOR_CREATURE_DESC: "$ESC_BIO_TESLA_INTERDICTOR_DESC$"
@@ -1496,7 +1496,7 @@ XL_ESC_ARCHAEO_POINTDEFENSE_CREATURE_3_DESC: "$ESC_BIO_ARCHAEO_POINTDEFENSE_3_DE
 
 # Tech-Synthetic Ruinator
 ESC_ARCHAEO_TITANLASER_2: "Tech-Synthetic Ruinator"
-ESC_ARCHAEO_TITANLASER_2_DESC: "An incredibly-powerful beam weapon created using our best knowledge of energy weapons' physics, sprinkled with the data based on the Ruinator Glare of precursor civilizations. This is, without a doubt, one of the most powerful weapons we've ever designed."
+ESC_ARCHAEO_TITANLASER_2_DESC: "An incredibly powerful beam weapon combining cutting-edge energy weapon physics with data reverse-engineered from the Ruinator Glare of precursor civilizations."
 ESC_ARCHAEO_TITANLASER_2_JUGGERNAUT: "$ESC_ARCHAEO_TITANLASER_2$ ($juggernaut$)"
 ESC_ARCHAEO_TITANLASER_2_JUGGERNAUT_DESC: "$ESC_ARCHAEO_TITANLASER_2_DESC$"
 
@@ -1514,10 +1514,10 @@ ESC_MANDIBLES_4: "Neutronium-Infused Mandibles"
 ESC_MANDIBLES_4_DESC: "A thin coating of Neutronium makes these mandibles extremely powerful, capable of easily cutting through warship-grade armor."
 
 ESC_MANDIBLES_5: "Adamantine Mandibles"
-ESC_MANDIBLES_5_DESC: "A further mutation of the neutronium-infused mandibles wiht an even greater strength and cutting power. Only select few materials in this universe can resist a bite from a creature equipped with these."
+ESC_MANDIBLES_5_DESC: "A further mutation of the neutronium-infused mandibles with even greater strength and cutting power. Only a select few materials in the universe can resist a bite from a creature equipped with these."
 
 ESC_MANDIBLES_CYBER_1: "Cybernetically-Enhanced Mandibles"
-ESC_MANDIBLES_CYBER_1_DESC: "It is possible to improve upon the natural weapons of our warbeasts with technology. These mandibles were enhanced with synthetic muscles to increase their bite force, while energy dischargers cause them to deal damage beyond their hellish crushing force."
+ESC_MANDIBLES_CYBER_1_DESC: "These mandibles have been enhanced with synthetic muscles to increase bite force, while integrated energy dischargers allow them to deal damage well beyond their considerable crushing power."
 
 ESC_MANDIBLES_CYBER_2: "Bionic Mandibles"
 ESC_MANDIBLES_CYBER_2_DESC: "Further enhancements to the warbeasts' mandibles with even stronger synthetic muscles and even more powerful energy dischargers. Nothing can stand in the way of this bio-technological marvel of destructive force."
@@ -1560,7 +1560,7 @@ LARGE_ESC_LM_ARMOR_6: "$esc_large$ $ESC_LM_ARMOR_6$"
 LARGE_ESC_LM_ARMOR_6_DESC: "$ESC_LM_ARMOR_6_DESC$"
 
 ESC_LM_ARMOR_BIO_6: "Infernal Evolved Neutronium Carapace"
-ESC_LM_ARMOR_BIO_6_DESC: "Advancements in $sr_living_metal$ sciences allowed the creation of this extremely tough carapace that goes beyond the limits of the previous generations of sioship carapaces."
+ESC_LM_ARMOR_BIO_6_DESC: "Advancements in $sr_living_metal$ sciences enabled the creation of this extremely tough carapace that surpasses the limits of all previous bioship carapace generations."
 SMALL_ESC_LM_ARMOR_BIO_6: "$esc_small$ $ESC_LM_ARMOR_BIO_6$"
 SMALL_ESC_LM_ARMOR_BIO_6_DESC: "$ESC_LM_ARMOR_BIO_6_DESC$"
 MEDIUM_ESC_LM_ARMOR_BIO_6: "$esc_medium$ $ESC_LM_ARMOR_BIO_6$"
@@ -1569,7 +1569,7 @@ LARGE_ESC_LM_ARMOR_BIO_6: "$esc_large$ $ESC_LM_ARMOR_BIO_6$"
 LARGE_ESC_LM_ARMOR_BIO_6_DESC: "$ESC_LM_ARMOR_BIO_6_DESC$"
 
 ESC_LM_ARMOR_7: "Regenrative Adamantium Armor"
-ESC_LM_ARMOR_7_DESC: "Furhter iteration of the $sr_living_metal$-infused neutronium armors, it is stronger than any material synthesized ever before."
+ESC_LM_ARMOR_7_DESC: "A further iteration of the $sr_living_metal$-infused neutronium armors, stronger than any material synthesized before it."
 SMALL_ESC_LM_ARMOR_7: "$esc_small$ $ESC_LM_ARMOR_7$"
 SMALL_ESC_LM_ARMOR_7_DESC: "$ESC_LM_ARMOR_7_DESC$"
 MEDIUM_ESC_LM_ARMOR_7: "$esc_medium$ $ESC_LM_ARMOR_7$"

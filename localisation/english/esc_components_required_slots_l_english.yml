@@ -376,7 +376,7 @@ SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_3: "$ESC_DARK_MATTER_CORE_3$"
 SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_3_DESC: "$ESC_DARK_MATTER_CORE_3_DESC$"
 
 ESC_DARK_MATTER_BIO_CORE_3: "Perfected Dark Matter Metabolism"
-ESC_DARK_MATTER_BIO_CORE_3_DESC: "These creatures has its normal flesh fused with specialized biopolymers capable of interacting with and drawing power from the dark matter. This strange biology lets the creature draw immense amounts of power directly from dark matter in the surrounding space, satisfying all of its needs for energy."
+ESC_DARK_MATTER_BIO_CORE_3_DESC: "The creature's flesh is fused with specialized biopolymers capable of interacting with dark matter directly, drawing immense power from the surrounding space to satisfy all its energy needs."
 
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_3: "$ESC_DARK_MATTER_BIO_CORE_3$"
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_3_DESC: "$ESC_DARK_MATTER_BIO_CORE_3_DESC$"
@@ -488,10 +488,10 @@ STARBASE_BIO_PRIMARY_REACTOR: "$STARBASE_PRIMARY_REACTOR$"
 ############################################################
 
 ESC_SENSOR_5: "Advanced Tachyon Sensors"
-ESC_SENSOR_5_DESC: "This new generation of Tachyon Sensors that offer greater perception of the world around."
+ESC_SENSOR_5_DESC: "This new generation of Tachyon Sensors offers greater perception of the surrounding space."
 
 ESC_SENSOR_6: "String Sensors"
-ESC_SENSOR_6_DESC: "These advanced sensors use dimensional strings to perceive the world and detect things that were previous unseen."
+ESC_SENSOR_6_DESC: "These advanced sensors use dimensional strings to perceive the world and detect things that were previously unseen."
 
 ESC_SENSOR_7: "Advanced String Sensors"
 ESC_SENSOR_7_DESC: "Next generation of String-based sensors that sees more than anything devised ever before."
@@ -506,7 +506,7 @@ ESC_SENSOR_AVATAR: "Shroud Eye"
 ESC_SENSOR_AVATAR_DESC: "This psionic entity perceives our realm through the mysterious Shroud Eye."
 
 ESC_BIO_SENSOR_5: "Advanced Tachyon-detecting Organs"
-ESC_BIO_SENSOR_5_DESC: "Further mutated sensory organs capable of detecting tachyon particles. These organs grant the creatures even greated perception of the world around them."
+ESC_BIO_SENSOR_5_DESC: "Further mutated sensory organs capable of detecting tachyon particles, granting creatures even greater perception of the surrounding space."
 ESC_BIOSHIP_SENSOR_5: "$ESC_BIO_SENSOR_5$"
 ESC_BIOSHIP_SENSOR_5_DESC: "$ESC_BIO_SENSOR_5_DESC$"
 
@@ -544,7 +544,7 @@ ESC_SENSOR_CLAIRVOYANT_EYE_3_DESC: "An even stronger version of the Eye of Clair
 ############################################################
 
 ESC_TITAN_AURA_MIRAGE_VANILLA: "Mirage System"
-ESC_TITAN_AURA_MIRAGE_VANILLA_DESC: "A set of projectors and cloaking devices that alter fleets' apparent position, making it much harder for enemies to hit"
+ESC_TITAN_AURA_MIRAGE_VANILLA_DESC: "A set of projectors and cloaking devices that alter fleets' apparent position, making it much harder for enemies to hit."
 ESC_TITAN_AURA_MIRAGE_NSC: "$ESC_TITAN_AURA_MIRAGE_VANILLA$"
 ESC_TITAN_AURA_MIRAGE_NSC_DESC: "$ESC_TITAN_AURA_MIRAGE_VANILLA_DESC$"
 esc_aura_mirage_system: "$ESC_TITAN_AURA_MIRAGE_VANILLA$"
@@ -554,7 +554,7 @@ ESC_TITAN_AURA_SHIELD_DESTABILIZER_NSC_DESC: "A dark energy emitter that weakens
 esc_aura_shield_destabilizer: "$ESC_TITAN_AURA_SHIELD_DESTABILIZER_NSC$"
 
 ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA: "Nanite Infiltration Swarm"
-ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA_DESC: "Specialized nanites that will attack enemy ships, weaking their armor and reducing hull integrity."
+ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA_DESC: "Specialized nanites that will attack enemy ships, weakening their armor and reducing hull integrity."
 ESC_TITAN_AURA_OFFENSIVE_NANITES_NSC: "$ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA$"
 ESC_TITAN_AURA_OFFENSIVE_NANITES_NSC_DESC: "$ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA_DESC$"
 esc_aura_nanite_offensive: "$ESC_TITAN_AURA_OFFENSIVE_NANITES_VANILLA$"
@@ -573,7 +573,7 @@ ESC_JUMP_DRIVE_2: "Improved Jump Drive"
 ESC_JUMP_DRIVE_2_DESC: "The second generation jump drive that features extended jump range and reduced recharge time."
 
 ESC_JUMP_DRIVE_3: "Ultrahyperbolic Jump Drive"
-ESC_JUMP_DRIVE_3_DESC: "This jump drive is designed to utilize higher dimensions that are normally invisible from our perspective in order to achieve even greater ability to move ships through space at will. This comes at the cost of increased complexity and much greater power requirements."
+ESC_JUMP_DRIVE_3_DESC: "This jump drive utilizes higher dimensions normally invisible from conventional space to achieve even greater range and flexibility of movement, at the cost of increased complexity and power requirements."
 
 ESC_JUMP_DRIVE_PRECURSOR: "Precursor Jump Drive"
 ESC_JUMP_DRIVE_PRECURSOR_DESC: "A jump drive, perfected by those who came long before us."
@@ -618,7 +618,7 @@ ESC_BIOSHIP_PSI_JUMP_DRIVE_3_DESC: "$ESC_BIO_PSI_JUMP_DRIVE_3_DESC$"
 
 # antimatter thrusters
 ESC_THRUSTERS_5: "Antimatter Thrusters"
-ESC_THRUSTERS_5_DESC: "Harnessing the energy produced via matter-antimatter annihilation, we can create engines more powerful than ever before."
+ESC_THRUSTERS_5_DESC: "These engines harness the energy produced via matter-antimatter annihilation, providing thrust far beyond conventional designs."
 
 DESTROYER_ESC_THRUSTERS_5: "$ESC_THRUSTERS_5$"
 DESTROYER_ESC_THRUSTERS_5_DESC: "$ESC_THRUSTERS_5_DESC$"
@@ -736,7 +736,7 @@ ESC_DREADNOUGHT_COMPUTER_HQ: "$ESC_DREADNOUGHT_COMPUTER$ (Headquarters)"
 ESC_DREADNOUGHT_COMPUTER_HQ_DESC: "$ESC_DREADNOUGHT_COMPUTER_DESC$"
 
 ESC_NANITE_COMPUTER: "Nanite Thought Matrix"
-ESC_NANITE_COMPUTER_DESC: "Specialized nanite substrate running an AI set to mimic minds of the greatest admirals known to our empire."
+ESC_NANITE_COMPUTER_DESC: "A specialized nanite substrate running an AI set to mimic the minds of history's greatest admirals."
 ESC_NANITE_COMPUTER_ARTILLERY: "$ESC_NANITE_COMPUTER$ (Artillery)"
 ESC_NANITE_COMPUTER_ARTILLERY_DESC: "$ESC_NANITE_COMPUTER_DESC$"
 ESC_NANITE_COMPUTER_CARRIER: "$ESC_NANITE_COMPUTER$ (Carrier)"
@@ -757,7 +757,7 @@ ESC_NANITE_COMPUTER_HQ: "$ESC_NANITE_COMPUTER$ (Headquarters)"
 ESC_NANITE_COMPUTER_HQ_DESC: "$ESC_NANITE_COMPUTER_DESC$"
 
 ESC_BIO_NANITE_COMPUTER: "$ESC_NANITE_COMPUTER$"
-ESC_BIO_NANITE_COMPUTER_DESC: "An auxiliary organ containing an AI node running on a nanite substrate. The AI is set to mimic the minds of the greatest admirals and beast-tamers known to our empire and can effortlessly make the creatures execute strategies that even trained ship crews would struggle with."
+ESC_BIO_NANITE_COMPUTER_DESC: "An auxiliary organ containing an AI node running on a nanite substrate, set to mimic the minds of history's greatest admirals and beast-tamers. It can direct creatures to execute strategies that even trained ship crews would struggle with."
 ESC_BIO_NANITE_COMPUTER_ARTILLERY: "$ESC_NANITE_COMPUTER$ (Artillery)"
 ESC_BIO_NANITE_COMPUTER_ARTILLERY_DESC: "$ESC_BIO_NANITE_COMPUTER_DESC$"
 ESC_BIO_NANITE_COMPUTER_CARRIER: "$ESC_NANITE_COMPUTER$ (Carrier)"
@@ -782,7 +782,7 @@ ESC_BIO_NANITE_COMPUTER_HQ: "$ESC_NANITE_COMPUTER$ (Headquarters)"
 ESC_BIO_NANITE_COMPUTER_HQ_DESC: "$ESC_BIO_NANITE_COMPUTER_DESC$"
 
 ESC_GIGAPREDATOR_INSTINCTS: "Gigapredator Instincts Neural Implant"
-ESC_GIGAPREDATOR_INSTINCTS_DESC: "A specialized neural implant imbuing artificially-recreated behavioral patterns of spaceborn leviathans into our warbeasts."
+ESC_GIGAPREDATOR_INSTINCTS_DESC: "A specialized neural implant imbuing artificially recreated behavioral patterns of spaceborn leviathans into warbeasts."
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY: "$ESC_GIGAPREDATOR_INSTINCTS$ (Artillery)"
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY_DESC: "$ESC_GIGAPREDATOR_INSTINCTS_DESC$"
 ESC_GIGAPREDATOR_INSTINCTS_CARRIER: "$ESC_GIGAPREDATOR_INSTINCTS$ (Carrier)"
