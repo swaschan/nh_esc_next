@@ -6,9 +6,9 @@
 ###                      Reactors                        ###
 ############################################################
 
-# imporoved zero-point reactor
+# improved zero-point reactor
 ESC_REACTOR_6: "Improved Zero-Point Reactor"
-ESC_REACTOR_6_DESC: "Minituarization allows us to make these new zero-point reactors more efficient than their predecessors."
+ESC_REACTOR_6_DESC: "Miniaturization allows us to make these new zero-point reactors more efficient than their predecessors."
 
 CORVETTE_ESC_REACTOR_6: "$ESC_REACTOR_6$"
 CORVETTE_ESC_REACTOR_6_DESC: "$ESC_REACTOR_6_DESC$"
@@ -166,7 +166,7 @@ STARBASE_ESC_BIO_REACTOR_7_DESC: "$ESC_BIO_REACTOR_7_DESC$"
 
 # improved singularity reactor
 ESC_REACTOR_8: "Improved Singularity Reactor"
-ESC_REACTOR_8_DESC: "An even more powerful and efficient version of the Singularity Reactor that provides ships with an unprecendented amounts of power."
+ESC_REACTOR_8_DESC: "An even more powerful and efficient version of the Singularity Reactor that provides ships with an unprecedented amount of power."
 
 CORVETTE_ESC_REACTOR_8: "$ESC_REACTOR_8$"
 CORVETTE_ESC_REACTOR_8_DESC: "$ESC_REACTOR_8_DESC$"
@@ -297,7 +297,7 @@ SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_2: "$ESC_DARK_MATTER_CORE_2$"
 SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_2_DESC: "$ESC_DARK_MATTER_CORE_2_DESC$"
 
 ESC_DARK_MATTER_BIO_CORE_2: "Improved Dark Matter Metabolism"
-ESC_DARK_MATTER_BIO_CORE_2_DESC: "A series of symbiotic mutations and substance alterations allow creature to extract energy from the dark matter more efficienty than before."
+ESC_DARK_MATTER_BIO_CORE_2_DESC: "A series of symbiotic mutations and substance alterations allow creature to extract energy from the dark matter more efficiently than before."
 
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_2: "$ESC_DARK_MATTER_BIO_CORE_2$"
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_2_DESC: "$ESC_DARK_MATTER_BIO_CORE_2_DESC$"
@@ -324,7 +324,7 @@ STARBASE_ESC_DARK_MATTER_BIO_CORE_2_DESC: "$ESC_DARK_MATTER_BIO_CORE_2_DESC$"
 
 # perfected dark matter reactor
 ESC_DARK_MATTER_CORE_3: "Perfected Dark Matter Reactor"
-ESC_DARK_MATTER_CORE_3_DESC: "The pinacle of dark matter engineering, this reactor provides an unprecendent amount of power while its energy recovery subsytems allows for a reduced energy upkeep of the ships."
+ESC_DARK_MATTER_CORE_3_DESC: "The pinnacle of dark matter engineering, this reactor provides an unprecedented amount of power while its energy recovery subsystems allows for a reduced energy upkeep of the ships."
 
 CORVETTE_ESC_DARK_MATTER_CORE_3: "$ESC_DARK_MATTER_CORE_3$"
 CORVETTE_ESC_DARK_MATTER_CORE_3_DESC: "$ESC_DARK_MATTER_CORE_3_DESC$"
@@ -376,7 +376,7 @@ SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_3: "$ESC_DARK_MATTER_CORE_3$"
 SCX_DREADNOUGHT_ESC_DARK_MATTER_CORE_3_DESC: "$ESC_DARK_MATTER_CORE_3_DESC$"
 
 ESC_DARK_MATTER_BIO_CORE_3: "Perfected Dark Matter Metabolism"
-ESC_DARK_MATTER_BIO_CORE_3_DESC: "These creatures has its normal flesh fused with specialized biopolymers capable of interacting with and drawing power from the dark matter. This strange biology lets the creature draw immense amounts of power directly of dark matter in the surrounding space, satisfying all of its needs for energy."
+ESC_DARK_MATTER_BIO_CORE_3_DESC: "These creatures has its normal flesh fused with specialized biopolymers capable of interacting with and drawing power from the dark matter. This strange biology lets the creature draw immense amounts of power directly from dark matter in the surrounding space, satisfying all of its needs for energy."
 
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_3: "$ESC_DARK_MATTER_BIO_CORE_3$"
 CORVETTE_ESC_DARK_MATTER_BIO_CORE_3_DESC: "$ESC_DARK_MATTER_BIO_CORE_3_DESC$"
@@ -521,19 +521,19 @@ ESC_BIOSHIP_SENSOR_7: "$ESC_BIO_SENSOR_7$"
 ESC_BIOSHIP_SENSOR_7_DESC: "$ESC_BIO_SENSOR_7_DESC$"
 
 ESC_BIO_SENSOR_PRECURSOR: "Precursor Warbeast Eye"
-ESC_BIO_SENSOR_PRECURSOR_DESC: "Advanced sensorory organs utilizing arcane properties of £sr_dark_matter£ §Y$sr_dark_matter$§! to instantly locate entities over vast distances of cosmos."
+ESC_BIO_SENSOR_PRECURSOR_DESC: "Advanced sensory organs utilizing arcane properties of £sr_dark_matter£ §Y$sr_dark_matter$§! to instantly locate entities over vast distances of cosmos."
 ESC_BIOSHIP_SENSOR_PRECURSOR: "$ESC_BIO_SENSOR_PRECURSOR$"
 ESC_BIOSHIP_SENSOR_PRECURSOR_DESC: "$ESC_BIO_SENSOR_PRECURSOR$"
 
-ESC_BIO_SENSOR_PSIONIC: "§MShroud§!-perceoving Organs"
+ESC_BIO_SENSOR_PSIONIC: "§MShroud§!-perceiving Organs"
 ESC_BIO_SENSOR_PSIONIC_DESC: "Advanced sensory organs capable of seeing directly into the §MShroud§!, granting unparalleled perception of the real world to any creature equipped with them."
 ESC_BIOSHIP_SENSOR_PSIONIC: "$ESC_BIO_SENSOR_PSIONIC$"
 ESC_BIOSHIP_SENSOR_PSIONIC_DESC: "$ESC_BIO_SENSOR_PSIONIC_DESC$"
 
-ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clarivoyancy"
+ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clairvoyancy"
 ESC_SENSOR_CLAIRVOYANT_EYE_1_DESC: "A sensory organ modelled after superior eyes of heroes from tales of ages past. Provides the creature with an incredible perception of battle. Unlike the fictional eyes it's based on, it §Rwill not§! provide new powers as 'plot' demands."
 
-ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clarivoyancy"
+ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clairvoyancy"
 ESC_SENSOR_CLAIRVOYANT_EYE_2_DESC: "An improved version of the Eye of Clairvoyancy. Still doesn't provide new powers as 'plot' demands."
 
 ESC_SENSOR_CLAIRVOYANT_EYE_3: "God-eye"
@@ -598,7 +598,7 @@ ESC_BIOSHIP_JUMP_DRIVE_3: "$ESC_BIO_JUMP_DRIVE_3$"
 ESC_BIOSHIP_JUMP_DRIVE_3_DESC: "$ESC_BIO_JUMP_DRIVE_3_DESC$"
 
 ESC_BIO_JUMP_DRIVE_PRECURSOR: "Precursor Hyperdimensional Slipstream Vision"
-ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC: "Extremely-advanced specilized set of organs, originally developped by precursor civilization, that allows spaceborn creature to traverse the galaxy at unrivaled speed."
+ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC: "Extremely-advanced specialized set of organs, originally developed by precursor civilization, that allows spaceborn creature to traverse the galaxy at unrivaled speed."
 ESC_BIOSHIP_JUMP_DRIVE_PRECURSOR: "$ESC_BIO_JUMP_DRIVE_PRECURSOR$"
 ESC_BIOSHIP_JUMP_DRIVE_PRECURSOR_DESC: "$ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC$"
 
@@ -812,7 +812,7 @@ ESC_FE_COMP_MAT_STARBASE: "$ESC_FE_COMP_MAT_TITAN$"
 ESC_FE_COMP_MAT_STARBASE_DESC: "$ESC_FE_COMP_MAT_TITAN_DESC$"
 
 ESC_FE_COMP_SPI_TITAN: "Shroud Advisor"
-ESC_FE_COMP_SPI_TITAN_DESC: "Spritual advisor that helps in fights against the unfaithful."
+ESC_FE_COMP_SPI_TITAN_DESC: "Spiritual advisor that helps in fights against the unfaithful."
 ESC_FE_COMP_SPI_BATTLECRUISER: "$ESC_FE_COMP_SPI_TITAN$"
 ESC_FE_COMP_SPI_BATTLECRUISER_DESC: "$ESC_FE_COMP_SPI_TITAN_DESC$"
 ESC_FE_COMP_SPI_ESCORT: "$ESC_FE_COMP_SPI_TITAN$"

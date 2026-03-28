@@ -17,7 +17,7 @@ LARGE_ESC_LASER_6: "$esc_large$ $ESC_LASER_6$"
 LARGE_ESC_LASER_6_DESC: "$ESC_LASER_6_DESC$"
 
 ESC_BIO_LASER_6: "Advanced Combat Beam Projector"
-ESC_BIO_LASER_6_DESC: "This biological beam projector is equiped with purpose-evolved mutations for superb performance."
+ESC_BIO_LASER_6_DESC: "This biological beam projector is equipped with purpose-evolved mutations for superb performance."
 SMALL_ESC_BIO_LASER_6: "$esc_small$ $ESC_BIO_LASER_6$"
 SMALL_ESC_BIO_LASER_6_DESC: "$ESC_BIO_LASER_6_DESC$"
 MEDIUM_ESC_BIO_LASER_6: "$esc_medium$ $ESC_BIO_LASER_6$"
@@ -68,7 +68,7 @@ XL_ESC_LASER_CREATURE_7_DESC: "$ESC_LASER_7_DESC$"
 
 # Advanced Plasma Cannon
 ESC_PLASMA_4: "Advanced Plasma Cannon"
-ESC_PLASMA_4_DESC: "An improved plasma cannon that shot more stable clusters of plasma that do more damage to its target."
+ESC_PLASMA_4_DESC: "An improved plasma cannon that shoots more stable clusters of plasma that do more damage to its target."
 SMALL_ESC_PLASMA_4: "$esc_small$ $ESC_PLASMA_4$"
 SMALL_ESC_PLASMA_4_DESC: "$ESC_PLASMA_4_DESC$"
 MEDIUM_ESC_PLASMA_4: "$esc_medium$ $ESC_PLASMA_4$"
@@ -77,7 +77,7 @@ LARGE_ESC_PLASMA_4: "$esc_large$ $ESC_PLASMA_4$"
 LARGE_ESC_PLASMA_4_DESC: "$ESC_PLASMA_4_DESC$"
 
 ESC_BIO_PLASMA_4: "Advanced Bio-plasma Cannon"
-ESC_BIO_PLASMA_4_DESC: "An improved plasma bio-cannon that shot more stable clusters of plasma that do more damage to its target."
+ESC_BIO_PLASMA_4_DESC: "An improved plasma bio-cannon that shoots more stable clusters of plasma that do more damage to its target."
 SMALL_ESC_BIO_PLASMA_4: "$esc_small$ $ESC_BIO_PLASMA_4$"
 SMALL_ESC_BIO_PLASMA_4_DESC: "$ESC_BIO_PLASMA_4_DESC$"
 MEDIUM_ESC_BIO_PLASMA_4: "$esc_medium$ $ESC_BIO_PLASMA_4$"
@@ -198,10 +198,10 @@ XL_ESC_ENERGY_TORPEDO_CREATURE_3_DESC: "$ESC_BIO_ENERGY_TORPEDO_3_DESC$"
 
 # Antimatter Launcher
 ESC_ENERGY_TORPEDO_4: "Antimatter Launcher"
-ESC_ENERGY_TORPEDO_4_DESC: "Antimatter is the ultimate 'explosive' that annihilates any normal matter it touches. This energy launcher fires a conctail of anti-particles, ensuring that anything its shots hit will be devastated."
+ESC_ENERGY_TORPEDO_4_DESC: "Antimatter is the ultimate 'explosive' that annihilates any normal matter it touches. This energy launcher fires a cocktail of anti-particles, ensuring that anything its shots hit will be devastated."
 
 ESC_BIO_ENERGY_TORPEDO_4: "Biological Antimatter Launcher"
-ESC_BIO_ENERGY_TORPEDO_4_DESC: "Highly-specilalized organ that is capable of accumulating, safely-storing and launching clumps of antimatter. Anything it attacks will be devastated."
+ESC_BIO_ENERGY_TORPEDO_4_DESC: "Highly-specialized organ that is capable of accumulating, safely-storing and launching clumps of antimatter. Anything it attacks will be devastated."
 
 ESC_ENERGY_TORPEDO_CREATURE_4: "$ESC_BIO_ENERGY_TORPEDO_4$"
 ESC_ENERGY_TORPEDO_CREATURE_4_DESC: "$ESC_BIO_ENERGY_TORPEDO_4_DESC$"
@@ -216,7 +216,7 @@ XL_ESC_ENERGY_TORPEDO_CREATURE_4_DESC: "$ESC_BIO_ENERGY_TORPEDO_4_DESC$"
 
 # Chrono-Vortex Cannon
 ESC_CHRONO_CANNON: "Chrono-Vortex Cannon"
-ESC_CHRONO_CANNON_DESC: "This terrifying weapon tears enemy ships arapt with unstable distortions of the time-space continuum."
+ESC_CHRONO_CANNON_DESC: "This terrifying weapon tears enemy ships apart with unstable distortions of the time-space continuum."
 SMALL_ESC_CHRONO_CANNON: "$esc_small$ $ESC_CHRONO_CANNON$"
 SMALL_ESC_CHRONO_CANNON_DESC: "$ESC_CHRONO_CANNON_DESC$"
 MEDIUM_ESC_CHRONO_CANNON: "$esc_medium$ $ESC_CHRONO_CANNON$"
@@ -242,7 +242,7 @@ MEDIUM_ESC_CHRONO_CANNON_CREATURE_DESC: "$ESC_BIO_CHRONO_CANNON_DESC$"
 LARGE_ESC_CHRONO_CANNON_CREATURE: "$esc_large$ $ESC_BIO_CHRONO_CANNON$"
 LARGE_ESC_CHRONO_CANNON_CREATURE_DESC: "$ESC_BIO_CHRONO_CANNON_DESC$"
 XL_ESC_CHRONO_CANNON_CREATURE: "$esc_extra_large$ $ESC_BIO_CHRONO_CANNON$"
-XL_ESC_CHRONO_CANNON_CRETURE_DESC: "$ESC_BIO_CHRONO_CANNON_DESC$"
+XL_ESC_CHRONO_CANNON_CREATURE_DESC: "$ESC_BIO_CHRONO_CANNON_DESC$"
 
 # Amplified Cloud Lightning
 ESC_CLOUD_LIGHTNING_2: "Amplified Cloud Lightning"
@@ -382,7 +382,7 @@ ESC_PARTICLE_LANCE_TITANIC_DESC: "The ultimate particle lance."
 ESC_PARTICLE_LANCE_JUGGERNAUT: "$ESC_PARTICLE_LANCE_TITANIC$ ($juggernaut$)"
 ESC_PARTICLE_LANCE_JUGGERNAUT_DESC: "$ESC_PARTICLE_LANCE_TITANIC_DESC$"
 ESC_BIO_PARTICLE_LANCE_TITANIC: "Light of Destruction"
-ESC_BIO_PARTICLE_LANCE_TITANIC_DESC: "The pinacle of evolution for organic particle beams."
+ESC_BIO_PARTICLE_LANCE_TITANIC_DESC: "The pinnacle of evolution for organic particle beams."
 ESC_BIO_PARTICLE_LANCE_JUGGERNAUT: "$ESC_PARTICLE_LANCE_TITANIC$ ($juggernaut$)"
 ESC_BIO_PARTICLE_LANCE_JUGGERNAUT_DESC: "$ESC_PARTICLE_LANCE_TITANIC_DESC$"
 
@@ -434,7 +434,7 @@ ESC_ARC_BIO_EMITTER_JUGGERNAUT_DESC: "$ESC_ARC_EMITTER_TITANIC_DESC$"
 
 # Wave-Motion Gun
 ESC_WAVEMOTIONGUN_1: "Wave-Motion Gun"
-ESC_WAVEMOTIONGUN_1_DESC: "Specialized exhaust ports allow us to temprarily redirect the engine exhaust and turn into a damaging lance that can destroy anything unfortunate enough to be in its path."
+ESC_WAVEMOTIONGUN_1_DESC: "Specialized exhaust ports allow us to temporarily redirect the engine exhaust and turn into a damaging lance that can destroy anything unfortunate enough to be in its path."
 
 ESC_BIO_WAVEMOTIONGUN_1: "Proton Scream"
 ESC_BIO_WAVEMOTIONGUN_1_DESC: "A curious mutation that allows this creature to exhale a destructive beam of highly-ionized gases that can lance through anything unfortunate enough to be in its path."
@@ -455,7 +455,7 @@ ESC_WAVEMOTIONGUN_2: "Dimensional Wave Cannon"
 ESC_WAVEMOTIONGUN_2_DESC: "An upgraded version of the Wave-Motion Gun with improved beam focus for greater accuracy and damage."
 
 ESC_BIO_WAVEMOTIONGUN_2: "Atomic Breath"
-ESC_BIO_WAVEMOTIONGUN_2_DESC: "An evolved version of the Proton Scream that produces even hotter and more deadly plasma exhaust while focusing it into a tigher beam for greater accuracy and damage."
+ESC_BIO_WAVEMOTIONGUN_2_DESC: "An evolved version of the Proton Scream that produces even hotter and more deadly plasma exhaust while focusing it into a tighter beam for greater accuracy and damage."
 
 ESC_WAVEMOTIONGUN_CREATURE_2: "$ESC_BIO_WAVEMOTIONGUN_2$"
 ESC_WAVEMOTIONGUN_CREATURE_2_DESC: "$ESC_BIO_WAVEMOTIONGUN_2_DESC$"
@@ -592,7 +592,7 @@ LARGE_ESC_MASS_DRIVER_7: "$esc_large$ $ESC_MASS_DRIVER_7$"
 LARGE_ESC_MASS_DRIVER_7_DESC: "$ESC_MASS_DRIVER_7_DESC$"
 
 ESC_BIO_MASS_DRIVER_7: "True-striking Shard Accelerator"
-ESC_BIO_MASS_DRIVER_7_DESC: "A futher evolution of Shard Gauss Accelerator with truer aim and even greater power behind its shots. It strikes enemies (almost) without error."
+ESC_BIO_MASS_DRIVER_7_DESC: "A further evolution of Shard Gauss Accelerator with truer aim and even greater power behind its shots. It strikes enemies (almost) without error."
 SMALL_ESC_BIO_MASS_DRIVER_7: "$esc_small$ $ESC_BIO_MASS_DRIVER_7$"
 SMALL_ESC_BIO_MASS_DRIVER_7_DESC: "$ESC_BIO_MASS_DRIVER_7_DESC$"
 MEDIUM_ESC_BIO_MASS_DRIVER_7: "$esc_medium$ $ESC_BIO_MASS_DRIVER_7$"
@@ -616,7 +616,7 @@ ESC_ARTILLERY_3: "Advanced Kinetic Artillery"
 ESC_ARTILLERY_3_DESC: "An improved version of the Kinetic Artillery with upgraded stabilizers and more powerful linear accelerators that allow for even faster projectiles."
 
 ESC_BIO_ARTILLERY_3: "Evolved Chitin Artillery"
-ESC_BIO_ARTILLERY_3_DESC: "An evolved version of the Chitin Artillery with an even greater number of support appendages for extra power and stability. More advantageous muscle arrangement futher improves power of this biological artillery cannon."
+ESC_BIO_ARTILLERY_3_DESC: "An evolved version of the Chitin Artillery with an even greater number of support appendages for extra power and stability. More advantageous muscle arrangement further improves power of this biological artillery cannon."
 
 ESC_ARTILLERY_CREATURE_3: "$ESC_BIO_ARTILLERY_3$"
 ESC_ARTILLERY_CREATURE_3_DESC: "$ESC_BIO_ARTILLERY_3_DESC$"
@@ -649,7 +649,7 @@ XL_ESC_ARTILLERY_CREATURE_4_DESC: "$ESC_BIO_ARTILLERY_4_DESC$"
 
 # Improved Stormfire Autocannon
 ESC_AUTOCANNON_4: "Improved Stormfire Autocannon"
-ESC_AUTOCANNON_4_DESC: "An upgraded version of the proven stormfire autocannon with struddier mechanics and faster reload."
+ESC_AUTOCANNON_4_DESC: "An upgraded version of the proven stormfire autocannon with sturdier mechanics and faster reload."
 SMALL_ESC_AUTOCANNON_4: "$esc_small$ $ESC_AUTOCANNON_4$"
 SMALL_ESC_AUTOCANNON_4_DESC: "$ESC_AUTOCANNON_4_DESC$"
 MEDIUM_ESC_AUTOCANNON_4: "$esc_medium$ $ESC_AUTOCANNON_4$"
@@ -727,10 +727,10 @@ XL_ESC_MASS_ACCELERATOR_CREATURE_3_DESC: "$ESC_MASS_ACCELERATOR_CREATURE_3_DESC$
 
 # The Grand Cannon
 ESC_MASS_ACCELERATOR_4: "The Grand Cannon"
-ESC_MASS_ACCELERATOR_4_DESC: "An incredibly-powerful mass accellerator cannon that has no equals."
+ESC_MASS_ACCELERATOR_4_DESC: "An incredibly-powerful mass accelerator cannon that has no equals."
 
 ESC_BIO_MASS_ACCELERATOR_4: "$ESC_MASS_ACCELERATOR_4$"
-ESC_BIO_MASS_ACCELERATOR_4_DESC: "An incredibly-powerful biological mass accelerator cannon that no equals."
+ESC_BIO_MASS_ACCELERATOR_4_DESC: "An incredibly-powerful biological mass accelerator cannon that has no equals."
 
 ESC_MASS_ACCELERATOR_CREATURE_4: "$ESC_MASS_ACCELERATOR_4$"
 ESC_MASS_ACCELERATOR_CREATURE_4_DESC: "$ESC_BIO_MASS_ACCELERATOR_4_DESC$"
@@ -770,7 +770,7 @@ ESC_BIO_AUTOCANNON_X_2_DESC: "An evolution of Hailstorm Quill Battery, capable o
 
 # Tempest Autocannon
 ESC_AUTOCANNON_T: "Tempest Autocannon"
-ESC_AUTOCANNON_T_DESC: "A truly titanic autocannon with an unprecedent power. May our enemies melt before it."
+ESC_AUTOCANNON_T_DESC: "A truly titanic autocannon with unprecedented power. May our enemies melt before it."
 ESC_AUTOCANNON_J: "$ESC_AUTOCANNON_T$ ($juggernaut$)"
 ESC_AUTOCANNON_J_DESC: "$ESC_AUTOCANNON_T_DESC$"
 
@@ -795,10 +795,10 @@ ESC_BIO_JUGGERNAUT_ARTILLERY_2_DESC: "A further evolution of the Juggernaut Chit
 
 # Ferromagnetic Liquid Cannon
 ESC_MHD_CANNON_1: "Ferromagnetic Liquid Cannon"
-ESC_MHD_CANNON_1_DESC: "This gigantic cannon functions in a way similar to a water jet cutter, except it uses a stream of molten metal passed through special nozzles to ensure that the jet is laminar and doesn't disperce even at great distances of space combat."
+ESC_MHD_CANNON_1_DESC: "This gigantic cannon functions in a way similar to a water jet cutter, except it uses a stream of molten metal passed through special nozzles to ensure that the jet is laminar and doesn't disperse even at great distances of space combat."
 
 ESC_BIO_MHD_CANNON_1: "Acidic Jet Cutter Cannon"
-ESC_BIO_MHD_CANNON_1_DESC: "This gigantic bio-cannon fires a relativistic stream of strong acids instead of a more traditional projectile. A set of specialized muscles ensure that the produced jet is laminar and doesn't disperce even at great distances of space combat."
+ESC_BIO_MHD_CANNON_1_DESC: "This gigantic bio-cannon fires a relativistic stream of strong acids instead of a more traditional projectile. A set of specialized muscles ensure that the produced jet is laminar and doesn't disperse even at great distances of space combat."
 
 ESC_MHD_CANNON_CREATURE_1: "$ESC_BIO_MHD_CANNON_1$"
 ESC_MHD_CANNON_CREATURE_1_DESC: "$ESC_BIO_MHD_CANNON_1_DESC$"
@@ -813,10 +813,10 @@ XL_ESC_MHD_CANNON_CREATURE_1_DESC: "$ESC_BIO_MHD_CANNON_1_DESC$"
 
 # Improved Ferromagnetic Liquid Cannon
 ESC_MHD_CANNON_2: "Improved Ferromagnetic Liquid Cannon"
-ESC_MHD_CANNON_2_DESC: "An upgraded version of the Ferromagnetic Liquid Cannon with a tigher jet that provides even more cutting power."
+ESC_MHD_CANNON_2_DESC: "An upgraded version of the Ferromagnetic Liquid Cannon with a tighter jet that provides even more cutting power."
 
 ESC_BIO_MHD_CANNON_2: "Evolved Acidic Jet Cutter Cannon"
-ESC_BIO_MHD_CANNON_2_DESC: "An evolution of the $ESC_BIO_MHD_CANNON_1$ with a slightly-different arrangement of the nozzle muscles, producing a tigher acidic jet with even greater cutting power."
+ESC_BIO_MHD_CANNON_2_DESC: "An evolution of the $ESC_BIO_MHD_CANNON_1$ with a slightly-different arrangement of the nozzle muscles, producing a tighter acidic jet with even greater cutting power."
 
 ESC_MHD_CANNON_CREATURE_2: "$ESC_BIO_MHD_CANNON_2$"
 ESC_MHD_CANNON_CREATURE_2_DESC: "$ESC_BIO_MHD_CANNON_2_DESC$"
@@ -901,7 +901,7 @@ XL_ESC_PLASMA_MISSILE_CREATURE_1_DESC: "$ESC_PLASMA_MISSILE_1_DESC$"
 
 # Improved Plasma Missile
 ESC_PLASMA_MISSILE_2: "Improved Plasma Missile"
-ESC_PLASMA_MISSILE_2_DESC: "An improved version of plasma missile that is faster, hotter and tricker to destroy with point-defense systems."
+ESC_PLASMA_MISSILE_2_DESC: "An improved version of plasma missile that is faster, hotter and trickier to destroy with point-defense systems."
 SMALL_ESC_PLASMA_MISSILE_2: "$esc_small$ $ESC_PLASMA_MISSILE_2$"
 SMALL_ESC_PLASMA_MISSILE_2_DESC: "$ESC_PLASMA_MISSILE_2_DESC$"
 MEDIUM_ESC_PLASMA_MISSILE_2: "$esc_medium$ $ESC_PLASMA_MISSILE_2$"
@@ -1013,7 +1013,7 @@ ESC_SWARMER_MISSILES_4: "Hurricane Missiles"
 ESC_SWARMER_MISSILES_4_DESC: "These new swarmer missiles embody the very concept of the Macross Missile Massacre."
 
 ESC_BIO_SWARMER_MISSILES_4: "Hurricane Bio-Missiles"
-ESC_BIO_SWARMER_MISSILES_4_DESC: "A futher evolution of bio-missile swarm concept that can easily launch overwhelming numbers of miniature biological missilies to overwhelm both the enemy's point-defense systems and the target itself."
+ESC_BIO_SWARMER_MISSILES_4_DESC: "A further evolution of bio-missile swarm concept that can easily launch overwhelming numbers of miniature biological missiles to overwhelm both the enemy's point-defense systems and the target itself."
 MEDIUM_ESC_BIO_SWARMER_MISSILES_4: "$ESC_BIO_SWARMER_MISSILES_4$"
 MEDIUM_ESC_BIO_SWARMER_MISSILES_4_DESC: "$ESC_BIO_SWARMER_MISSILES_4_DESC$"
 TORPEDO_ESC_BIO_SWARMER_MISSILES_4: "$ESC_BIO_SWARMER_MISSILES_4$"
@@ -1036,7 +1036,7 @@ ESC_XMISSILE_1_DESC: "Specialized missile that delivers a warhead with an explos
 
 # Strange Matter Warhead
 ESC_XMISSILE_2: "Strange Matter Warhead"
-ESC_XMISSILE_2_DESC: "Impoved version of the Exotic Matter Warhead that has an even more devastating payload."
+ESC_XMISSILE_2_DESC: "Improved version of the Exotic Matter Warhead that has an even more devastating payload."
 
 # Reflex Warhead Launcher
 ESC_XMISSILE_3_TITANIC: "Reflex Warhead Launcher"
@@ -1089,7 +1089,7 @@ ESC_POINT_DEFENSE_4: "Protector Point-Defense"
 ESC_POINT_DEFENSE_4_DESC: "An upgraded version of Guardian point-defense system with better tracking algorithms and more powerful guns."
 
 ESC_BIO_POINT_DEFENSE_4: "Protector Snapper Gun"
-ESC_BIO_POINT_DEFENSE_4_DESC: "A specilized outgrowth, complete with its own dedicated neural cluster, that is capable of incredibly-fast reaction times and can easily track and shoot down fast-moving objects."
+ESC_BIO_POINT_DEFENSE_4_DESC: "A specialized outgrowth, complete with its own dedicated neural cluster, that is capable of incredibly-fast reaction times and can easily track and shoot down fast-moving objects."
 
 ESC_POINT_DEFENSE_CREATURE_4: "$ESC_BIO_POINT_DEFENSE_4$"
 ESC_POINT_DEFENSE_CREATURE_4_DESC: "$ESC_BIO_POINT_DEFENSE_4_DESC$"
@@ -1107,7 +1107,7 @@ ESC_POINT_DEFENSE_5: "Iron Curtain Point-Defense"
 ESC_POINT_DEFENSE_5_DESC: "The best point-defense system achievable within the known technological horizons."
 
 ESC_BIO_POINT_DEFENSE_5: "Iron Curtain Snapper Gun"
-ESC_BIO_POINT_DEFENSE_5_DESC: "A further evolution of self-contained biological intectception systems with a highly-advanced controlling neural cluster and its own set of sensory organs that can identify and track almost any conceivable projectile."
+ESC_BIO_POINT_DEFENSE_5_DESC: "A further evolution of self-contained biological interception systems with a highly-advanced controlling neural cluster and its own set of sensory organs that can identify and track almost any conceivable projectile."
 
 ESC_POINT_DEFENSE_CREATURE_5: "$ESC_BIO_POINT_DEFENSE_5$"
 ESC_POINT_DEFENSE_CREATURE_5_DESC: "$ESC_BIO_POINT_DEFENSE_5_DESC$"
@@ -1131,8 +1131,8 @@ ESC_BIO_JUGGERNAUT_POINT_DEFENSE_1_DESC: "A massive and incredibly-powerful biol
 ESC_JUGGERNAUT_POINT_DEFENSE_2: "Improved Juggernaut Point Defense System"
 ESC_JUGGERNAUT_POINT_DEFENSE_2_DESC: "An improved version of the Juggernaut Point Defense System with better tracking system and even more powerful and precise cannons."
 
-ESC_BIO_JUGGERNAUT_POINT_DEFENSE_2: "Evoloved Juggernaut Snapper Gun"
-ESC_BIO_JUGGERNAUT_POINT_DEFENSE_2_DESC: "A futher evolution of the Juggernaut Snapper Guns with more advanced neural cluster and more sensitive sensor organs. It is noticeably more powerful and precise than its ancestors."
+ESC_BIO_JUGGERNAUT_POINT_DEFENSE_2: "Evolved Juggernaut Snapper Gun"
+ESC_BIO_JUGGERNAUT_POINT_DEFENSE_2_DESC: "A further evolution of the Juggernaut Snapper Guns with more advanced neural cluster and more sensitive sensor organs. It is noticeably more powerful and precise than its ancestors."
 
 # Lightstorm Point-Defense
 ESC_LIGHTSTORM_PD: "Lightstorm Point-Defense"

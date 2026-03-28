@@ -38,7 +38,7 @@ d_esc_mantle_exotic_gases_pocket: "Exotic Gases Pocket"
 d_esc_mantle_exotic_gases_pocket_desc: "A pocket of exotic gases located within the planet's upper mantle that can be extracted by the Mantle Mining Facility."
 
 d_esc_mantle_rare_crystal_cluster: "Rare Crystals Cluster"
-d_esc_mantle_rare_crystal_cluster_desc: "A large cluster of rare crystals located witin the planet's mantle that can be extracted by the Mantle Mining Facility."
+d_esc_mantle_rare_crystal_cluster_desc: "A large cluster of rare crystals located within the planet's mantle that can be extracted by the Mantle Mining Facility."
 
 d_esc_mantle_volatile_motes_cluster: "Molten Motes"
 d_esc_mantle_volatile_motes_cluster_desc: "A pocket of molten volatile motes located within the planet's upper mantle that can be extracted by the Mantle Mining Facility."
@@ -115,7 +115,7 @@ esc_tesla_droids_army: "Tesla Droids"
 esc_tesla_droids_army_desc: "Machine army that utilizes powerful tesla weapons to fry its enemies alive."
 
 esc_tesla_troopers_army: "Tesla Troopers"
-esc_tesla_troopers_army_desc: "Sodiers encased in heavy non-conducting armor and wielding powerful tesla weapons."
+esc_tesla_troopers_army_desc: "Soldiers encased in heavy non-conducting armor and wielding powerful tesla weapons."
 
 esc_biohorror_army: "Bio-Horror Horde"
 esc_biohorror_army_desc: "An assault unit consisting of remotely-guided genetically-engineered attack beasts."
@@ -157,14 +157,14 @@ esc_special_projects.2002.option.a: "We will learn what we can"
 esc_special_projects.2002.option.b: "We don't need to copy from this piece of junk!"
 
 ESC_DREADNOUGHT_OBSERVATION: "Automated Dreadnought Observation"
-ESC_DREADNOUGHT_OBSERVATION_DESC: "While it doesn't look like combat systems of the ancient Automated Dreadnought possess any form of true intelligence, they are still extremely advanced and if we can replicate their logic for out own ships, this will without a doubt greatly increase strength of our fleets."
+ESC_DREADNOUGHT_OBSERVATION_DESC: "While it doesn't look like combat systems of the ancient Automated Dreadnought possess any form of true intelligence, they are still extremely advanced and if we can replicate their logic for our own ships, this will without a doubt greatly increase strength of our fleets."
 
-esc_special_projects.2003.name: "Automated Dreadnought Obervation: Report"
-esc_special_projects.2003.desc: "With the data our observation team has collected on the Automated Dreadnought and its combat behavior, our science department is positive that they will be able to replicate at least some of apparent logic behing its combat computers, adapted to our own ship designs, of course."
+esc_special_projects.2003.name: "Automated Dreadnought Observation: Report"
+esc_special_projects.2003.desc: "With the data our observation team has collected on the Automated Dreadnought and its combat behavior, our science department is positive that they will be able to replicate at least some of the apparent logic behind its combat computers, adapted to our own ship designs, of course."
 
 ### Nanite Thought Matrix computers
 esc_special_projects.3002.name: "Nanite Thought Matrix Development"
-esc_special_projects.3002.desc: "With our advancements in the fields of nanotechnology and AI some of scientists began contemplating the creation of next generation of AI, one that run on nanite substrate and are capable of mimicing organic minds to an unprecedent degree. Our navy has already expressed interest in adopting such AI for fleet command and are willing to sponsor the research."
+esc_special_projects.3002.desc: "With our advancements in the fields of nanotechnology and AI some of our scientists began contemplating the creation of next generation of AI, one that run on nanite substrate and are capable of mimicing organic minds to an unprecedent degree. Our navy has already expressed interest in adopting such AI for fleet command and are willing to sponsor the research."
 esc_special_projects.3002.option.a: "Give researchers a go ahead"
 esc_special_projects.3002.option.b: "We have no need of such technology!"
 
@@ -189,10 +189,10 @@ esc_special_projects.4002.option.a: "We will learn what we can"
 esc_special_projects.4002.option.b: "We don't want our warbeasts to turn on us!"
 
 ESC_GIGAPREDATOR_STUDY: "Gigapredator Study"
-ESC_GIGAPREDATOR_STUDY_DESC: "Specaborn leviathans utilize some really unusual biological and behavioral adaptations to survive even in areas of space where, by all accounts, there should not be enough food to sustain their immense bulk. By studying these adaptations, we can learn how to further empower warbeasts under our own command."
+ESC_GIGAPREDATOR_STUDY_DESC: "Spaceborn leviathans utilize some really unusual biological and behavioral adaptations to survive even in areas of space where, by all accounts, there should not be enough food to sustain their immense bulk. By studying these adaptations, we can learn how to further empower warbeasts under our own command."
 
 esc_special_projects.4003.name: "Gigapredator Study: Report"
-esc_special_projects.4003.desc: "Our researchers managed to uncover some of the secrets behind the mechanics that allow survival of the leviathan creatures in the void of space. They are also positive that the gained knowledge can be applied to the lesser creatures, such as our own warbeasts. This should allow creation of stronger and smarter phenotypes, greatly increasing he power of our fleets."
+esc_special_projects.4003.desc: "Our researchers managed to uncover some of the secrets behind the mechanics that allow survival of the leviathan creatures in the void of space. They are also positive that the gained knowledge can be applied to the lesser creatures, such as our own warbeasts. This should allow creation of stronger and smarter phenotypes, greatly increasing the power of our fleets."
 
 ############################################################
 ###                     Event Messages                   ###
@@ -210,7 +210,7 @@ esc_events.3011.name: "Mineral Riches"
 esc_events.3011.desc: "Miners on §Y[Root.GetName]§! report that an exceptionally valuable cluster of £minerals£ §Y$minerals$§! has been located within the planet's mantle. Extracting these minerals will noticeably boost local resource production and will greatly benefit our empire."
 
 esc_events.3012.name: "Molten Alloys"
-esc_events.3012.desc: "Miners on §Y[Root.GetName]§! report that a plume of molten £alloys£ §Y$alloys$§! rising from the planet's core has been located during the mantle mining operations. With some tweaks to usual ectraction process, the Manle Mining Facility will be able to harvest these alloys for the benefit of our empire."
+esc_events.3012.desc: "Miners on §Y[Root.GetName]§! report that a plume of molten £alloys£ §Y$alloys$§! rising from the planet's core has been located during the mantle mining operations. With some tweaks to usual extraction process, the Mantle Mining Facility will be able to harvest these alloys for the benefit of our empire."
 
 esc_events.3013.name: "Exotic Gases Pocket"
 esc_events.3013.desc: "Miners on §Y[Root.GetName]§! report that a pocket of £exotic_gases£ §Y$exotic_gases$§! has been located within the planet's mantle and can be extracted by the Mantle Mining Facility. Our empire will greatly benefit from this."
@@ -235,33 +235,33 @@ esc_events.3051.desc: "Mantle Mining Facility on §Y[Root.GetName]§! reports a 
 ############################################################
 
 # ai research speed boost: easy
-esc_ai_early_game_science_boost_easy: "Exta Ship Components AI research boost (Easy Scaling)"
+esc_ai_early_game_science_boost_easy: "Extra Ship Components AI research boost (Easy Scaling)"
 esc_ai_early_game_science_boost_easy_desc: "AI empires are granted scaling bonus to research speed:\n+§G10§!% in the early game\n+§G25§!% during the mid-game\n+§G50§!% during the late game"
 esc_ai_mid_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
 esc_ai_mid_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
 esc_ai_end_game_science_boost_easy: "$esc_ai_early_game_science_boost_easy$"
 esc_ai_end_game_science_boost_easy_desc: "$esc_ai_early_game_science_boost_easy_desc$"
-esc_ai_science_boost_easy_static: "Exta Ship Components AI research boost (Easy Static)"
+esc_ai_science_boost_easy_static: "Extra Ship Components AI research boost (Easy Static)"
 esc_ai_science_boost_easy_static_desc: "AI empires are granted +§G25§!% research speed bonus throughout the whole game."
 
 # ai research speed boost: moderate
-esc_ai_early_game_science_boost_moderate: "Exta Ship Components AI research boost (Moderate Scaling)"
+esc_ai_early_game_science_boost_moderate: "Extra Ship Components AI research boost (Moderate Scaling)"
 esc_ai_early_game_science_boost_moderate_desc: "AI empires are granted scaling bonus to research speed:\n+§G25§!% in the early game\n+§G50§!% during the mid-game\n+§G100§!% during the late game"
 esc_ai_mid_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
 esc_ai_mid_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
 esc_ai_end_game_science_boost_moderate: "$esc_ai_early_game_science_boost_moderate$"
 esc_ai_end_game_science_boost_moderate_desc: "$esc_ai_early_game_science_boost_moderate_desc$"
-esc_ai_science_boost_moderate_static: "Exta Ship Components AI research boost (Moderate Static)"
+esc_ai_science_boost_moderate_static: "Extra Ship Components AI research boost (Moderate Static)"
 esc_ai_science_boost_moderate_static_desc: "AI empires are granted +§G50§!% research speed bonus throughout the whole game."
 
 # ai research speed boost: challenging
-esc_ai_early_game_science_boost_challenging: "Exta Ship Components AI research boost (Challenging Scaling)"
+esc_ai_early_game_science_boost_challenging: "Extra Ship Components AI research boost (Challenging Scaling)"
 esc_ai_early_game_science_boost_challenging_desc: "AI empires are granted scaling bonus to research speed:\n+§G50§!% in the early game\n+§G100§!% during the mid-game\n+§G150§!% during the late game"
 esc_ai_mid_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
 esc_ai_mid_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
 esc_ai_end_game_science_boost_challenging: "$esc_ai_early_game_science_boost_challenging$"
 esc_ai_end_game_science_boost_challenging_desc: "$esc_ai_early_game_science_boost_challenging_desc$"
-esc_ai_science_boost_challenging_static: "Exta Ship Components AI research boost (Challenging Static)"
+esc_ai_science_boost_challenging_static: "Extra Ship Components AI research boost (Challenging Static)"
 esc_ai_science_boost_challenging_static_desc: "AI empires are granted +§G100§!% research speed bonus throughout the whole game."
 
 # ai resource boost
@@ -281,7 +281,7 @@ esc_mercenary_boost_desc: "Monthly strategic resources for the mercenary enclave
 
 # on-hit weapon effects
 esc_biological_weapon_armor_hardening_debuff_1: "Corrosive substances"
-esc_biological_weapon_armor_hardening_debuff_1_desc: "Accidic and corrosive substances in the bile of the weaponized space creatures sticks to ship hulls and causes damage to the outer layers of armor, reducing its structural integrity"
+esc_biological_weapon_armor_hardening_debuff_1_desc: "Acidic and corrosive substances in the bile of the weaponized space creatures sticks to ship hulls and causes damage to the outer layers of armor, reducing its structural integrity"
 esc_biological_weapon_armor_hardening_debuff_2: "$esc_biological_weapon_armor_hardening_debuff_1$"
 esc_biological_weapon_armor_hardening_debuff_2_desc: "$esc_biological_weapon_armor_hardening_debuff_1_desc$"
 
@@ -325,7 +325,7 @@ esc_tooltip_energy_syphon_shields_add_xl_t2: "- $MOD_SHIP_SHIELD_HP_ADD$: §G+40
 esc_tooltip_energy_syphon_shields_repair_s_t2: "- Restores §Y20§! Shields to attacking ship"
 esc_tooltip_energy_syphon_shields_repair_m_t2: "- Restores §Y40§! Shields to attacking ship"
 esc_tooltip_energy_syphon_shields_repair_l_t2: "- Restores §Y60§! Shields to attacking ship"
-esc_tooltip_energy_syphon_shields_repair_xl_t2: "- Restores §Y80! Shields to attacking ship"
+esc_tooltip_energy_syphon_shields_repair_xl_t2: "- Restores §Y80§! Shields to attacking ship"
 
 esc_tooltip_energy_syphon_shields_add_s_t3: "- $MOD_SHIP_SHIELD_HP_ADD$: §G+150§!"
 esc_tooltip_energy_syphon_shields_add_m_t3: "- $MOD_SHIP_SHIELD_HP_ADD$: §G+300§!"
@@ -341,4 +341,4 @@ esc_collateral_damage_tooltip: "§YCollateral Damage§!: Deals additional damage
 esc_shockwave_damage_tooltip: "§YOmnidirectional Shockwave§!: Deals damage to all hostile ships within attack range."
 esc_dark_matter_shockwave_tooltip: "Reduces target ships' movement speed and evasion by §G25§!%. Effect duration: §Y10§! days."
 esc_psionic_shockwave_tooltip: "Reduces target ships' accuracy and tracking by §G25§!%. Effect duration: §Y10§! days."
-esc_tesla_shockwave_tooltip: "Reduces target ships' rate of fire and weapons range by §G20§!%. Effect uration: §Y10§! days."
+esc_tesla_shockwave_tooltip: "Reduces target ships' rate of fire and weapons range by §G20§!%. Effect duration: §Y10§! days."
