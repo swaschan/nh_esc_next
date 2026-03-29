@@ -523,21 +523,21 @@ ESC_BIOSHIP_SENSOR_7_DESC: "$ESC_BIO_SENSOR_7_DESC$"
 ESC_BIO_SENSOR_PRECURSOR: "Precursor Warbeast Eye"
 ESC_BIO_SENSOR_PRECURSOR_DESC: "Sensory organs that exploit the arcane properties of £sr_dark_matter£ §Y$sr_dark_matter$§! to locate entities instantaneously across vast cosmic distances."
 ESC_BIOSHIP_SENSOR_PRECURSOR: "$ESC_BIO_SENSOR_PRECURSOR$"
-ESC_BIOSHIP_SENSOR_PRECURSOR_DESC: "$ESC_BIO_SENSOR_PRECURSOR$"
+ESC_BIOSHIP_SENSOR_PRECURSOR_DESC: "$ESC_BIO_SENSOR_PRECURSOR_DESC$"
 
 ESC_BIO_SENSOR_PSIONIC: "§MShroud§!-perceiving Organs"
 ESC_BIO_SENSOR_PSIONIC_DESC: "Organs capable of peering directly into the §MShroud§!, granting the creature extraordinary awareness of the material world."
 ESC_BIOSHIP_SENSOR_PSIONIC: "$ESC_BIO_SENSOR_PSIONIC$"
 ESC_BIOSHIP_SENSOR_PSIONIC_DESC: "$ESC_BIO_SENSOR_PSIONIC_DESC$"
 
-ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clairvoyancy"
-ESC_SENSOR_CLAIRVOYANT_EYE_1_DESC: "A sensory organ modelled after the legendary eyes of heroes from ages past, granting remarkable battlefield perception. Unlike its fictional inspiration, it §Rwill not§! develop new powers as 'plot' demands."
+ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clairvoyance"
+ESC_SENSOR_CLAIRVOYANT_EYE_1_DESC: "A sensory organ modeled after the legendary eyes of heroes from ages past, granting remarkable battlefield perception. Unlike its fictional inspiration, it §Rwill not§! develop new powers as 'plot' demands."
 
-ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clairvoyancy"
-ESC_SENSOR_CLAIRVOYANT_EYE_2_DESC: "An improved Eye of Clairvoyancy with heightened acuity. Still does not develop new powers as 'plot' demands."
+ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clairvoyance"
+ESC_SENSOR_CLAIRVOYANT_EYE_2_DESC: "An improved Eye of Clairvoyance with heightened acuity. Still does not develop new powers as 'plot' demands."
 
 ESC_SENSOR_CLAIRVOYANT_EYE_3: "God-eye"
-ESC_SENSOR_CLAIRVOYANT_EYE_3_DESC: "The ultimate Eye of Clairvoyancy. Its genetic code is such a tangled mess that it might actually develop new powers as 'plot' demands."
+ESC_SENSOR_CLAIRVOYANT_EYE_3_DESC: "The ultimate Eye of Clairvoyance. Its genetic code is such a tangled mess that it might actually develop new powers as 'plot' demands."
 
 ############################################################
 ###                         Auras                        ###
@@ -588,17 +588,17 @@ ESC_JUMP_DRIVE_AVATAR: "Shroud Gate"
 ESC_JUMP_DRIVE_AVATAR_DESC: "This psionic manifestation can tear open portals between realspace and the §MShroud§!, allowing it to traverse the stars at extraordinary speed."
 
 ESC_BIO_JUMP_DRIVE_2: "Improved Hyperdimensional Inner-Ear"
-ESC_BIO_JUMP_DRIVE_2_DESC: "A mutated organ of heightened efficiency that enables spaceborn creatures to perform interstellar jumps with greater range and precision."
+ESC_BIO_JUMP_DRIVE_2_DESC: "A mutated organ of heightened efficiency that enables the creature to perform interstellar jumps with greater range and precision."
 ESC_BIOSHIP_JUMP_DRIVE_2: "$ESC_BIO_JUMP_DRIVE_2$"
 ESC_BIOSHIP_JUMP_DRIVE_2_DESC: "$ESC_BIO_JUMP_DRIVE_2_DESC$"
 
 ESC_BIO_JUMP_DRIVE_3: "Ultrahyperbolic Inner-Ear"
-ESC_BIO_JUMP_DRIVE_3_DESC: "An ultra-specialized organ granting the most advanced spaceborn creatures remarkably efficient interstellar travel."
+ESC_BIO_JUMP_DRIVE_3_DESC: "An ultra-specialized organ that grants the creature remarkably efficient interstellar travel across hyperbolic dimensions."
 ESC_BIOSHIP_JUMP_DRIVE_3: "$ESC_BIO_JUMP_DRIVE_3$"
 ESC_BIOSHIP_JUMP_DRIVE_3_DESC: "$ESC_BIO_JUMP_DRIVE_3_DESC$"
 
 ESC_BIO_JUMP_DRIVE_PRECURSOR: "Precursor Hyperdimensional Slipstream Vision"
-ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC: "An extraordinarily advanced organ system originally engineered by a precursor civilization, enabling galactic traversal at unrivaled speed."
+ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC: "An extraordinarily advanced organ system originally engineered by a Precursor civilization, enabling galactic traversal at unrivaled speed."
 ESC_BIOSHIP_JUMP_DRIVE_PRECURSOR: "$ESC_BIO_JUMP_DRIVE_PRECURSOR$"
 ESC_BIOSHIP_JUMP_DRIVE_PRECURSOR_DESC: "$ESC_BIO_JUMP_DRIVE_PRECURSOR_DESC$"
 
@@ -642,7 +642,7 @@ FLAGSHIP_ESC_THRUSTERS_5: "$ESC_THRUSTERS_5$"
 FLAGSHIP_ESC_THRUSTERS_5_DESC: "$ESC_THRUSTERS_5_DESC$"
 
 ESC_BIO_THRUSTERS_5: "Antimatter-harnessing Propulsion Organs"
-ESC_BIO_THRUSTERS_5_DESC: "Propulsion organs that derive thrust from matter-antimatter annihilation. How the creatures contain antimatter within living tissue without catastrophic detonation remains an open question."
+ESC_BIO_THRUSTERS_5_DESC: "Propulsion organs that derive thrust from matter-antimatter annihilation. How the creature contains antimatter within living tissue without catastrophic detonation remains an open question."
 ESC_BIOSHIP_THRUSTERS_5: "$ESC_BIO_THRUSTERS_5$"
 ESC_BIOSHIP_THRUSTERS_5_DESC: "$ESC_BIO_THRUSTERS_5_DESC$"
 
@@ -723,7 +723,7 @@ ESC_THRUSTER_AVATAR_DESC: "This psionic entity propels itself through space by m
 ############################################################
 
 ESC_DREADNOUGHT_COMPUTER: "Automated Dreadnought Protocols"
-ESC_DREADNOUGHT_COMPUTER_DESC: "A combat computer modelled after the AI core of the Automated Dreadnought, employing its formidable combat protocols."
+ESC_DREADNOUGHT_COMPUTER_DESC: "A combat computer modeled after the AI core of the Automated Dreadnought, employing its formidable combat protocols."
 ESC_DREADNOUGHT_COMPUTER_ARTILLERY: "$ESC_DREADNOUGHT_COMPUTER$ (Artillery)"
 ESC_DREADNOUGHT_COMPUTER_ARTILLERY_DESC: "$ESC_DREADNOUGHT_COMPUTER_DESC$"
 ESC_DREADNOUGHT_COMPUTER_CARRIER: "$ESC_DREADNOUGHT_COMPUTER$ (Carrier)"
@@ -757,7 +757,7 @@ ESC_NANITE_COMPUTER_HQ: "$ESC_NANITE_COMPUTER$ (Headquarters)"
 ESC_NANITE_COMPUTER_HQ_DESC: "$ESC_NANITE_COMPUTER_DESC$"
 
 ESC_BIO_NANITE_COMPUTER: "$ESC_NANITE_COMPUTER$"
-ESC_BIO_NANITE_COMPUTER_DESC: "An auxiliary organ containing a nanite-substrate AI patterned after history's greatest admirals and beast-tamers, capable of directing creatures through strategies that even trained ship crews would struggle to execute."
+ESC_BIO_NANITE_COMPUTER_DESC: "An auxiliary organ containing a nanite-substrate AI patterned after history's greatest admirals and beast-tamers, capable of directing the creature through strategies that even trained ship crews would struggle to execute."
 ESC_BIO_NANITE_COMPUTER_ARTILLERY: "$ESC_NANITE_COMPUTER$ (Artillery)"
 ESC_BIO_NANITE_COMPUTER_ARTILLERY_DESC: "$ESC_BIO_NANITE_COMPUTER_DESC$"
 ESC_BIO_NANITE_COMPUTER_CARRIER: "$ESC_NANITE_COMPUTER$ (Carrier)"
@@ -782,7 +782,7 @@ ESC_BIO_NANITE_COMPUTER_HQ: "$ESC_NANITE_COMPUTER$ (Headquarters)"
 ESC_BIO_NANITE_COMPUTER_HQ_DESC: "$ESC_BIO_NANITE_COMPUTER_DESC$"
 
 ESC_GIGAPREDATOR_INSTINCTS: "Gigapredator Instincts Neural Implant"
-ESC_GIGAPREDATOR_INSTINCTS_DESC: "A neural implant that encodes the artificially recreated behavioral patterns of spaceborn leviathans into warbeasts."
+ESC_GIGAPREDATOR_INSTINCTS_DESC: "A neural implant that encodes the artificially recreated behavioral patterns of spaceborn leviathans into the warbeast."
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY: "$ESC_GIGAPREDATOR_INSTINCTS$ (Artillery)"
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY_DESC: "$ESC_GIGAPREDATOR_INSTINCTS_DESC$"
 ESC_GIGAPREDATOR_INSTINCTS_CARRIER: "$ESC_GIGAPREDATOR_INSTINCTS$ (Carrier)"
@@ -833,7 +833,7 @@ ESC_FE_COMP_XPB_PLATFORM_DESC: "$ESC_FE_COMP_XPB_TITAN_DESC$"
 ESC_FE_COMP_XPB_STARBASE: "$ESC_FE_COMP_XPB_TITAN$"
 ESC_FE_COMP_XPB_STARBASE_DESC: "$ESC_FE_COMP_XPB_TITAN_DESC$"
 
-ESC_FE_COMP_XPL_TITAN: "Galaxy Guardian Adviser"
+ESC_FE_COMP_XPL_TITAN: "Galaxy Guardian Advisor"
 ESC_FE_COMP_XPL_TITAN_DESC: "Peace through superior firepower."
 ESC_FE_COMP_XPL_BATTLECRUISER: "$ESC_FE_COMP_XPL_TITAN$"
 ESC_FE_COMP_XPL_BATTLECRUISER_DESC: "$ESC_FE_COMP_XPL_TITAN_DESC$"
