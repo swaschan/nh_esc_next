@@ -779,13 +779,13 @@ mod_esc_repair_allied_ship_on_death: "Upon death, a random allied ship in the fl
 ESC_AUX_DEAD_HAND_HEAL_CMD_1: "Dead Hand Switch: Repair Allies Command"
 ESC_AUX_DEAD_HAND_HEAL_CMD_1_DESC: "Should the ship sustain critical damage, its repair drones are automatically redirected to the nearest allied vessels. The crew will not survive, but their sacrifice may give others the margin they need."
 
-ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_1: "Restorative Enzymes Sacks"
+ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_1: "Restorative Enzyme Sacks"
 ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_1_DESC: "Enzyme-filled sacks across the creature's outer carapace rupture upon death, dispersing restorative compounds that accelerate regeneration in any allied creatures close enough to benefit."
 
 ESC_AUX_DEAD_HAND_HEAL_CMD_2: "Dead Hand Switch: Support Allies Command"
 ESC_AUX_DEAD_HAND_HEAL_CMD_2_DESC: "Should the ship sustain critical damage, every available repair drone and salvageable material is directed outward to allied vessels. The crew's fate is sealed, but their ship's final contribution may prove decisive."
 
-ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_2: "Supreme Restorative Enzymes Sacks"
+ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_2: "Supreme Restorative Enzyme Sacks"
 ESC_BIO_AUX_DEAD_HAND_HEAL_CMD_2_DESC: "More potent enzyme sacks than the standard variant, distributed across the outer carapace. Upon the creature's death, they disperse with enough restorative output to accelerate healing in several nearby allies at once."
 
 ############################################################

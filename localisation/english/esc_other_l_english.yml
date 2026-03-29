@@ -184,12 +184,12 @@ esc_special_projects.3004.desc: "Our researchers have succeeded in creating a na
 
 ### Gigapredator Instincts computers
 esc_special_projects.4002.name: "Gigapredator Study: Suggestion"
-esc_special_projects.4002.desc: "We have encountered spaceborn lifeforms of staggering size and ferocity, creatures that must rely on extraordinary physiological adaptations to survive in the void. If we can study and replicate those adaptations, far more powerful phenotypes of our own warbeasts may become possible."
+esc_special_projects.4002.desc: "We have encountered spaceborne lifeforms of staggering size and ferocity, creatures that must rely on extraordinary physiological adaptations to survive in the void. If we can study and replicate those adaptations, far more powerful phenotypes of our own warbeasts may become possible."
 esc_special_projects.4002.option.a: "We will learn what we can"
 esc_special_projects.4002.option.b: "We don't want our warbeasts to turn on us!"
 
 ESC_GIGAPREDATOR_STUDY: "Gigapredator Study"
-ESC_GIGAPREDATOR_STUDY_DESC: "Spaceborn leviathans thrive in regions where no creature of their mass should survive, sustained by biological adaptations we barely understand. Studying these adaptations could teach us to forge far more powerful warbeasts of our own."
+ESC_GIGAPREDATOR_STUDY_DESC: "Spaceborne leviathans thrive in regions where no creature of their mass should survive, sustained by biological adaptations we barely understand. Studying these adaptations could teach us to forge far more powerful warbeasts of our own."
 
 esc_special_projects.4003.name: "Gigapredator Study: Report"
 esc_special_projects.4003.desc: "Our researchers have uncovered key secrets behind the leviathans' survival in the void, and are confident this knowledge can be applied to our own warbeasts, producing stronger and smarter phenotypes that will greatly increase the power of our fleets."

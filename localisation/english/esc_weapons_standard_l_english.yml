@@ -135,7 +135,7 @@ MEDIUM_ESC_DISRUPTOR_4: "$esc_medium$ $ESC_DISRUPTOR_4$"
 MEDIUM_ESC_DISRUPTOR_4_DESC: "$ESC_DISRUPTOR_4_DESC$"
 
 ESC_BIO_DISRUPTOR_4: "Tachyon Bio-disruptors"
-ESC_BIO_DISRUPTOR_4_DESC: "Biological tachyon projectors evolved specifically to disrupt subatomic bonds reduce any material the beam contacts to its component particles, bypassing all conventional defenses."
+ESC_BIO_DISRUPTOR_4_DESC: "Biological tachyon projectors evolved specifically to disrupt subatomic bonds and reduce any material the beam contacts to its component particles, bypassing all conventional defenses."
 SMALL_ESC_BIO_DISRUPTOR_4: "$esc_small$ $ESC_BIO_DISRUPTOR_4$"
 SMALL_ESC_BIO_DISRUPTOR_4_DESC: "$ESC_BIO_DISRUPTOR_4_DESC$"
 MEDIUM_ESC_BIO_DISRUPTOR_4: "$esc_medium$ $ESC_BIO_DISRUPTOR_4$"

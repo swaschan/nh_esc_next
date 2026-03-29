@@ -455,7 +455,7 @@ SCX_DREADNOUGHT_ESC_REACTOR_PSIONIC: "$ESC_REACTOR_PSIONIC$"
 SCX_DREADNOUGHT_ESC_REACTOR_PSIONIC_DESC: "$ESC_REACTOR_PSIONIC_DESC$"
 
 ESC_REACTOR_BIO_PSIONIC: "Shroud Well"
-ESC_REACTOR_BIO_PSIONIC_DESC: "Specialized organs allow a spaceborn creature to tap into the §MShroud§! as a nigh-limitless reservoir of psionic energy."
+ESC_REACTOR_BIO_PSIONIC_DESC: "Specialized organs allow a spaceborne creature to tap into the §MShroud§! as a nigh-limitless reservoir of psionic energy."
 
 CORVETTE_ESC_REACTOR_BIO_PSIONIC: "$ESC_REACTOR_BIO_PSIONIC$"
 CORVETTE_ESC_REACTOR_BIO_PSIONIC_DESC: "$ESC_REACTOR_BIO_PSIONIC_DESC$"
@@ -530,14 +530,14 @@ ESC_BIO_SENSOR_PSIONIC_DESC: "Organs capable of peering directly into the §MShr
 ESC_BIOSHIP_SENSOR_PSIONIC: "$ESC_BIO_SENSOR_PSIONIC$"
 ESC_BIOSHIP_SENSOR_PSIONIC_DESC: "$ESC_BIO_SENSOR_PSIONIC_DESC$"
 
-ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clairvoyance"
+ESC_SENSOR_CLAIRVOYANT_EYE_1: "Eye of Clairvoyancy"
 ESC_SENSOR_CLAIRVOYANT_EYE_1_DESC: "A sensory organ modeled after the legendary eyes of heroes from ages past, granting remarkable battlefield perception. Unlike its fictional inspiration, it §Rwill not§! develop new powers as 'plot' demands."
 
-ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clairvoyance"
-ESC_SENSOR_CLAIRVOYANT_EYE_2_DESC: "An improved Eye of Clairvoyance with heightened acuity. Still does not develop new powers as 'plot' demands."
+ESC_SENSOR_CLAIRVOYANT_EYE_2: "Superior Eye of Clairvoyancy"
+ESC_SENSOR_CLAIRVOYANT_EYE_2_DESC: "An improved Eye of Clairvoyancy with heightened acuity. Still does not develop new powers as 'plot' demands."
 
 ESC_SENSOR_CLAIRVOYANT_EYE_3: "God-eye"
-ESC_SENSOR_CLAIRVOYANT_EYE_3_DESC: "The ultimate Eye of Clairvoyance. Its genetic code is such a tangled mess that it might actually develop new powers as 'plot' demands."
+ESC_SENSOR_CLAIRVOYANT_EYE_3_DESC: "The ultimate Eye of Clairvoyancy. Its genetic code is such a tangled mess that it might actually develop new powers as 'plot' demands."
 
 ############################################################
 ###                         Auras                        ###
@@ -782,7 +782,7 @@ ESC_BIO_NANITE_COMPUTER_HQ: "$ESC_NANITE_COMPUTER$ (Headquarters)"
 ESC_BIO_NANITE_COMPUTER_HQ_DESC: "$ESC_BIO_NANITE_COMPUTER_DESC$"
 
 ESC_GIGAPREDATOR_INSTINCTS: "Gigapredator Instincts Neural Implant"
-ESC_GIGAPREDATOR_INSTINCTS_DESC: "A neural implant that encodes the artificially recreated behavioral patterns of spaceborn leviathans into the warbeast."
+ESC_GIGAPREDATOR_INSTINCTS_DESC: "A neural implant that encodes the artificially recreated behavioral patterns of spaceborne leviathans into the warbeast."
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY: "$ESC_GIGAPREDATOR_INSTINCTS$ (Artillery)"
 ESC_GIGAPREDATOR_INSTINCTS_ARTILLERY_DESC: "$ESC_GIGAPREDATOR_INSTINCTS_DESC$"
 ESC_GIGAPREDATOR_INSTINCTS_CARRIER: "$ESC_GIGAPREDATOR_INSTINCTS$ (Carrier)"
